@@ -2,8 +2,8 @@
 A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning, including RGB-T Fusion, RGB-T Salient Object Detection, RGB-T Vehicle Detection, RGB-T Crowd Counting, RGB-T Pedestrian Detection, RGB-T Semantic Segmeantaion
 
 
-1. [RGB-T Fusion](#rgb-t-fusion)
-2. [RGB-T Salient Object Detection](#RGB-T-Salient-Object-Detection)
+1. [RGB-T Fusion](#1.RGB-T-fusion)
+2. [RGB-T Salient Object Detection](#2.RGB-T-Salient-Object-Detection)
 3. [RGB-T Vehicle Detection](#RGB-T-Vehicle-Detection)
 4. [RGB-T Crowd Counting](#RGB-T-Crowd-Counting)
 5. [RGB-T Pedestrian Detection](#RGB-T-Pedestrian-Detection)
@@ -11,7 +11,7 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 7. [RGB-T Tracking](#RGB-T-Fusion-Tracking)
 
 
-# 1. RGB-T Fusion
+# 1.RGB-T Fusion
 ## Datasets
 
 ## Tools
