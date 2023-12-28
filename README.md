@@ -1,5 +1,5 @@
 # Awesome RGB-T
-A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning, including RGB-T Fusion, RGB-T Salient Object Detection (SOD), RGB-T Vehicle Detection, RGB-T Crowd Counting (CC), RGB-T Pedestrian Detection, RGB-T Semantic Segmeantaion, RGB-T Tracking.
+A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning, including RGB-T Fusion, RGB-T Salient Object Detection (SOD), RGB-T Vehicle Detection (VD), RGB-T Crowd Counting (CC), RGB-T Pedestrian Detection (PD), RGB-T Semantic Segmeantaion (SS), RGB-T Tracking.
 
 ## Contents  
 1. [RGB-T Fusion](#1-RGB-T-fusion)
