@@ -26,8 +26,11 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 2. RGB-T Salient Object Detection
+:rocket::rocket::rocket:Update (in 2023-12-26)
 
-## Papers
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
 
@@ -37,8 +40,11 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 3. RGB-T Vehicle Detection
+:rocket::rocket::rocket:Update (in 2023-12-26)
 
-## Papers
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
 
@@ -48,8 +54,11 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 4. RGB-T Crowd Counting
+:rocket::rocket::rocket:Update (in 2023-12-26)
 
-## Papers
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 
 ## Datasets
@@ -60,8 +69,11 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 5. RGB-T Pedestrian Detection
+:rocket::rocket::rocket:Update (in 2023-12-26)
 
-## Papers
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 
 ## Datasets
@@ -79,9 +91,11 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 6. RGB-T Semantic Segmeantaion
+:rocket::rocket::rocket:Update (in 2023-12-26)
 
-
-## Papers
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
 
@@ -91,8 +105,11 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 7. RGB-T Tracking
+:rocket::rocket::rocket:Update (in 2023-12-26)
 
-## Papers
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
 
