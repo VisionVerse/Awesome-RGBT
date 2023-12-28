@@ -8,7 +8,7 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 4. [RGB-T Crowd Counting](#4-RGB-T-Crowd-Counting)
 5. [RGB-T Pedestrian Detection](#5-RGB-T-Pedestrian-Detection)
 6. [RGB-T Semantic Segmeantaion](#6-RGB-T-Semantic-Segmeantaion)
-7. [RGB-T Tracking](#7-RGB-T-Fusion-Tracking)
+7. [RGB-T Tracking](#7-RGB-T-Tracking)
 
 
 # 1. RGB-T Fusion
