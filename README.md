@@ -11,7 +11,7 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 7. [RGB-T Tracking](#RGB-T-Fusion-Tracking)
 
 
-# 1.RGB-T Fusion
+# 1. RGB-T Fusion
 ## Datasets
 
 ## Tools
