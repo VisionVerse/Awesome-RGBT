@@ -33,6 +33,10 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
+- VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)][[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)]
+- VT1000 Dataset [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)][[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)]
+- VT5000 Dataset [[PDF](https://arxiv.org/pdf/2007.03262.pdf)][[link](https://pan.baidu.com/s/196S1GcnI56Vn6fLO3oXb5Q)[y9jj]
+- VT723 Dataset [[PDF](https://arxiv.org/pdf/2207.03558.pdf)][[link](https://drive.google.com/file/d/12gEUFG2yWi3uBTjLymQ3hjnDUHGcgADq/view)]
 
 ## Tools
 
@@ -47,6 +51,9 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
+- DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)]
+- VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
+- Multispectral Datasets for Detection and Segmentation: with Segmentation annotation  [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)]
 
 ## Tools
 
@@ -62,6 +69,8 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 ## Datasets
+- RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)]
+- DroneCrowd [[link](https://github.com/VisDrone/DroneCrowd)]
 
 ## Tools
 
@@ -112,6 +121,9 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
+- GTOT [[PDF](https://ieeexplore.ieee.org/document/7577747)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+- RGBT234 Dataset [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302808)][[link](https://sites.google.com/view/ahutracking001/)]
+- LasHeR Dataset [[PDF](https://arxiv.org/abs/2104.13202)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
 
 ## Tools
 
