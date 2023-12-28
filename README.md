@@ -3,12 +3,12 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 1. [RGB-T Fusion](#1-RGB-T-fusion)
-2. [RGB-T Salient Object Detection](#2.RGB-T-Salient-Object-Detection)
-3. [RGB-T Vehicle Detection](#RGB-T-Vehicle-Detection)
-4. [RGB-T Crowd Counting](#RGB-T-Crowd-Counting)
-5. [RGB-T Pedestrian Detection](#RGB-T-Pedestrian-Detection)
-6. [RGB-T Semantic Segmeantaion](#RGB-T-Semantic-Segmeantaion)
-7. [RGB-T Tracking](#RGB-T-Fusion-Tracking)
+2. [RGB-T Salient Object Detection](#2-RGB-T-Salient-Object-Detection)
+3. [RGB-T Vehicle Detection](#3-RGB-T-Vehicle-Detection)
+4. [RGB-T Crowd Counting](#4-RGB-T-Crowd-Counting)
+5. [RGB-T Pedestrian Detection](#5-RGB-T-Pedestrian-Detection)
+6. [RGB-T Semantic Segmeantaion](#6-RGB-T-Semantic-Segmeantaion)
+7. [RGB-T Tracking](#7-RGB-T-Fusion-Tracking)
 
 
 # 1. RGB-T Fusion
