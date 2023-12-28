@@ -12,9 +12,6 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 
 # 1. RGB-T Fusion
-
-
-## Papers
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
