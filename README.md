@@ -23,7 +23,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+219 | 2023 | RFVIF| Information Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
 
 ## Datasets
 
