@@ -97,12 +97,21 @@ We will continue to update this repository :running::running::running:
 -------
 
 
+
+
+
+
+
+
 # 4. RGB-T Crowd Counting
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+2 | 2022 | XXNet| arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [[Paper](https://arxiv.org/pdf/2208.06761.pdf)
+1 | 2022 | XXNet| ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
+1 | 2021 | XXNet| CVPR | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://arxiv.org/pdf/2012.04529.pdf)][[Code](https://github.com/chen-judge/RGBTCrowdCounting)
+1 | 2020 | XXNet| ACCV | RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)/[Project](https://github.com/VisDrone/DroneRGBT)
 
 
 ## Datasets
