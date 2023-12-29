@@ -51,7 +51,7 @@ We will continue to update this repository :running::running::running:
 :-: | :-: | :-: | :-  | :-  | :-: 
 219 | 2020 | XXNet | AAAI | Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6879)
 219 | 2020 | XXNet | TMM | Deep Domain Adaptation Based Multi-spectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)
-219 | 2021 | XXNet | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)
+219 | 2021 | MIDD | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)
 
 
 ## Datasets
