@@ -25,7 +25,7 @@ We will continue to update this repository :running::running::running:
 :-: | :-: | :-: | :-  | :-  | :-: 
 219 | 2023 | RFVIF| Information Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
 219 | 2019 |  | Information Fusion |  Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)/[Project]
-219 | 2016 | GTF| Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
+219 | 2016 | GTF| Information Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
 
 ## Datasets
 
