@@ -3,7 +3,8 @@ A collection of papers, codes, and datasets for RGB-T related tasks based on dee
 
 The main directions involved are RGB-T Fusion, RGB-T Salient Object Detection (SOD), RGB-T Vehicle Detection (VD), RGB-T Crowd Counting (CC), RGB-T Pedestrian Detection (PD), RGB-T Semantic Segmeantaion (SS), RGB-T Tracking.
 
-Feel free to star and fork~ :star2::star2::star2: We will continue to update this repository :running::running::running:
+Feel free to star and fork~ :star2::star2::star2: 
+We will continue to update this repository :running::running::running:
 
 
 ## Contents  
