@@ -15,7 +15,7 @@ We will continue to update this repository :running::running::running:
 5. [RGB-T Pedestrian Detection](#5-RGB-T-Pedestrian-Detection)
 6. [RGB-T Semantic Segmeantaion](#6-RGB-T-Semantic-Segmeantaion)
 7. [RGB-T Tracking](#7-RGB-T-Tracking)
-8. [RGB-T Semantic Segmeantaion](#8-RGB-T-Semantic-Segmeantaion)
+8. [RGB-T Alignment](#8-RGB-T-Alignment)
 
 
 # 1. RGB-T Fusion
