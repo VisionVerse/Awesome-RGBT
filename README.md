@@ -34,6 +34,16 @@ We will continue to update this repository :running::running::running:
 --------
 
 
+
+
+
+
+
+
+
+
+
+
 # 2. RGB-T Salient Object Detection
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
@@ -50,6 +60,18 @@ We will continue to update this repository :running::running::running:
 ## Tools
 
 -------
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 3. RGB-T Vehicle Detection
@@ -86,12 +108,56 @@ We will continue to update this repository :running::running::running:
 -------
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # 5. RGB-T Pedestrian Detection
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+<!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
+
+219 | 2023 |CALNet| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)/Project
+219 | 2023 |XMSNet| TCSVT | Stabilizing Multispectral Pedestrian Detection with Evidential Hybrid Fusion |  [[PDF](https://ieeexplore.ieee.org/abstract/document/10225383)]
+219 | 2023 |XMSNet| CVPRW | Multimodal Object Detection by Channel Switching and Spatial Attention |  [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.pdf)]
+219 | 2023 |XMSNet| TITS | Multi-Modal Feature Pyramid Transformer for RGB-Infrared Object Detection | [[PDF](https://ieeexplore.ieee.org/abstract/document/10105844)]
+219 | 2023 |XMSNet| TMM | Multiscale Cross-modal Homogeneity Enhancement and Confidence-aware Fusion for Multispectral Pedestrian Detection |  [[PDF](https://ieeexplore.ieee.org/document/10114594)]
+219 | 2023 |XMSNet| RS | HAFNet: Hierarchical Attentive Fusion Network for Multispectral Pedestrian Detection  |  [[PDF](https://www.mdpi.com/2072-4292/15/8/2041)]
+219 | 2022 |XMSNet| ECCV | Multimodal Object Detection via Probabilistic Ensembling |  [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690139.pdf)]
+219 | 2022 |XMSNet| ACM MM | Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection |  [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)]
+219 | 2022 |XMSNet| TMM | Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection |  [[PDF](https://ieeexplore.ieee.org/abstract/document/9739079)]
+219 | 2022 |XMSNet| PRCV | Attention-Guided Multi-modal and Multi-scale Fusion for Multispectral Pedestrian Detection |  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_30)]
+219 | 2022 |XMSNet| ICIP | Improving RGB-Infrared Pedestrian Detection by Reducing Cross-Modality Redundancy  |  [[PDF](https://www.mdpi.com/2072-4292/14/9/2020)]
+219 | 2022 |XMSNet| TITS | Spatio-contextual deep network-based multimodal pedestrian detection for autonomous driving  |  [[PDF](https://ieeexplore.ieee.org/abstract/document/9706418)]
+219 | 2022 |XMSNet| Sensors | Adopting the YOLOv4 Architecture for Low-LatencyMultispectral Pedestrian Detection in Autonomous Driving  |  [[PDF](https://www.mdpi.com/1424-8220/22/3/1082)]
+219 | 2021 |XMSNet| ICIP | Deep Active Learning from Multispectral Data Through Cross-Modality Prediction Inconsistency  | [[PDF](https://ieeexplore.ieee.org/document/9506322)]
+219 | 2021 |XMSNet| Sensors | Attention Fusion for One-Stage Multispectral Pedestrian Detection  |  [[PDF](https://www.mdpi.com/1424-8220/21/12/4184)]
+219 | 2021 |XMSNet| TCSVT | Uncertainty-Guided Cross-Modal Learning for Robust Multispectral Pedestrian Detection  |  [[PDF](https://ieeexplore.ieee.org/document/9419080)]
+219 | 2021 |XMSNet| TCSVT | Deep Cross-modal Representation Learning and Distillation for Illumination-invariant Pedestrian Detection  |  [[PDF](https://ieeexplore.ieee.org/document/9357413/)]
+219 | 2021 |XMSNet| WACV | Guided Attentive Feature Fusion for Multispectral Pedestrian Detection  |  [[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf)]
+219 | 2020 |XMSNet| BMVC | Anchor-free Small-scale Multispectral Pedestrian Detection  | [[PDF](https://arxiv.org/abs/2008.08418)][[Code](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)]
+219 | 2020 |XMSNet| ICIP | Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks  |  [[PDF](https://hal.archives-ouvertes.fr/hal-02872132/file/icip2020.pdf)]
+219 | 2020 |XMSNet| ECCV | Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems |  [[PDF](https://arxiv.org/pdf/2008.03043.pdf)][[Code](https://github.com/CalayZhou/MBNet)]
+219 | 2020 |XMSNet| BMVC | Anchor-free Small-scale Multispectral Pedestrian Detection | [[PDF](https://arxiv.org/abs/2008.08418)][[Code](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)]
+219 | 2019 |XMSNet| ICCV | Weakly Aligned Cross-Modal Learning for Multispectral Pedestrian Detection  |  [[PDF](https://arxiv.org/abs/1901.02645)][[Code](https://github.com/luzhang16/AR-CNN)]
+219 | 2019 |XMSNet| ISPRS | Box-level Segmentation Supervised Deep Neural Networks for Accurate and Real-time Multispectral Pesdestrian Detecion | [[PDF](https://arxiv.org/abs/1902.05291)][[Code](https://github.com/dayanguan/realtime_multispectral_pedestrian_detection)]
+219 | 2019 |XMSNet| Information Fusion | Cross-modality interactive attention network for multispectral pedestrian detection | [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1566253518304111)][[Code](https://github.com/luzhang16/CIAN)]
+219 | 2019 |XMSNet| Information Fusion | Pedestrian detection with unsupervised multispectral feature learning using deep neural networks | [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253517305948)]
+219 | 2018 |XMSNet| BMVC | Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation | [[PDF](https://arxiv.org/abs/1808.04818)][[Code](https://github.com/Li-Chengyang/MSDS-RCNN)][[Project Link](https://li-chengyang.github.io/home/MSDS-RCNN/)]
+219 | 2018 |XMSNet| PR | Unified Multi-spectral Pedestrian Detection Based on Probabilistic Fusion Networks | [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320318300906)]
+219 | 2016 |XMSNet| BMVC | Multispectral Deep Neural Networks for Pedestrian Detection | [[PDF](https://arxiv.org/abs/1611.02644)][[Code](https://github.com/denny1108/multispectral-pedestrian-py-faster-rcnn)]
+219 | 2015 |XMSNet| CVPR | Multispectral Pedestrian Detection Benchmark Dataset and Baseline | [[PDF](https://soonminhwang.github.io/rgbt-ped-detection/misc/CVPR15_Pedestrian_Benchmark.pdf)][[Code](https://github.com/SoonminHwang/rgbt-ped-detection)]
+
 
 
 ## Datasets
