@@ -147,6 +147,9 @@ We will continue to update this repository :running::running::running:
 
 -------
 
+# Ref.
+- https://github.com/yuanmaoxun/Awesome-RGBT-Fusion
+
 -------
 
 ## :wave::wave::wave: Thanks to the above authors for their excellent work！
