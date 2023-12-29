@@ -15,6 +15,7 @@ We will continue to update this repository :running::running::running:
 5. [RGB-T Pedestrian Detection](#5-RGB-T-Pedestrian-Detection)
 6. [RGB-T Semantic Segmeantaion](#6-RGB-T-Semantic-Segmeantaion)
 7. [RGB-T Tracking](#7-RGB-T-Tracking)
+8. [RGB-T Semantic Segmeantaion](#8-RGB-T-Semantic-Segmeantaion)
 
 
 # 1. RGB-T Fusion
@@ -132,6 +133,19 @@ We will continue to update this repository :running::running::running:
 - LasHeR Dataset [[PDF](https://arxiv.org/abs/2104.13202)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
 
 ## Tools
+
+# 8. RGB-T Alignment
+:rocket::rocket::rocket:Update (in 2023-12-26)
+
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
+219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+
+## Datasets
+
+## Tools
+
+-------
 
 -------
 
