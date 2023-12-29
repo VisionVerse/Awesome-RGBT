@@ -126,7 +126,6 @@ We will continue to update this repository :running::running::running:
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 <!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
-
 219 | 2023 |CALNet| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)/Project
 219 | 2023 |XMSNet| TCSVT | Stabilizing Multispectral Pedestrian Detection with Evidential Hybrid Fusion |  [[PDF](https://ieeexplore.ieee.org/abstract/document/10225383)]
 219 | 2023 |XMSNet| CVPRW | Multimodal Object Detection by Channel Switching and Spatial Attention |  [[PDF](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.pdf)]
