@@ -49,13 +49,16 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+219 | 2020 | XXNet | AAAI | Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6879)
+219 | 2020 | XXNet | TMM | Deep Domain Adaptation Based Multi-spectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)
+219 | 2021 | XXNet | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)
+
 
 ## Datasets
-- VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)][[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)]
-- VT1000 Dataset [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)][[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)]
-- VT5000 Dataset [[PDF](https://arxiv.org/pdf/2007.03262.pdf)][[link](https://pan.baidu.com/s/196S1GcnI56Vn6fLO3oXb5Q)[y9jj]
-- VT723 Dataset [[PDF](https://arxiv.org/pdf/2207.03558.pdf)][[link](https://drive.google.com/file/d/12gEUFG2yWi3uBTjLymQ3hjnDUHGcgADq/view)]
+- VT821 Dataset [Paper](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)/[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)
+- VT1000 Dataset [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)/[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)
+- VT5000 Dataset [Paper](https://arxiv.org/pdf/2007.03262.pdf)/[link](https://pan.baidu.com/s/196S1GcnI56Vn6fLO3oXb5Q)[y9jj]
+- VT723 Dataset [Paper](https://arxiv.org/pdf/2207.03558.pdf)/[link](https://drive.google.com/file/d/12gEUFG2yWi3uBTjLymQ3hjnDUHGcgADq/view)
 
 ## Tools
 
@@ -88,9 +91,9 @@ We will continue to update this repository :running::running::running:
 1 | 2022 | Net| RS | Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy  |  [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
 
 ## Datasets
-- DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)]
-- VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)]
-- Multispectral Datasets for Detection and Segmentation: with Segmentation annotation  [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)]
+- DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)
+- VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)
+- Multispectral Datasets for Detection and Segmentation: with Segmentation annotation  [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
 
 ## Tools
 
@@ -115,8 +118,8 @@ We will continue to update this repository :running::running::running:
 
 
 ## Datasets
-- RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)]
-- DroneCrowd [[link](https://github.com/VisDrone/DroneCrowd)]
+- RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)
+- DroneCrowd [[link](https://github.com/VisDrone/DroneCrowd)
 
 ## Tools
 
@@ -206,14 +209,40 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+219 | 2023 | XXNet| arXiv | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
+219 | 2023 | XXNet| ICME | MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking |   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219799)
+219 | 2023 | XXNet| CVPR |  Visual Prompt Multi-Modal Tracking |  [Paper](https://arxiv.org/abs/2303.10826)/[Code](https://github.com/jiawen-zhu/ViPT)
+219 | 2023 | XXNet| CVPR | Efficient RGB-T Tracking via Cross-Modality Distillation |  [Paper](https://ieeexplore.ieee.org/abstract/document/10205202)
+219 | 2023 | XXNet| CVPR | Bridging Search Region Interaction with Template for RGB-T Tracking |  [Paper](https://ieeexplore.ieee.org/document/10203113)/[Code](https://github.com/RyanHTR/TBSI)
+219 | 2021 | XXNet| TIP | Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking |   [Paper](https://ieeexplore.ieee.org/document/9364880) TIP 2022, Tu, Zhengzheng et al., [Paper](https://ieeexplore.ieee.org/document/9617143)
+219 | 2022 | XXNet| SCIS | RGBT tracking via reliable feature configuration |   [Paper](https://link.springer.com/article/10.1007/s11432-020-3160-5)
+219 | 2022 | XXNet| AAAI | Attribute-Based Progressive Fusion Network for RGBT Tracking |  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20187/19946)/[Code](https://github.com/yangmengmeng1997/APFNet)
+219 | 2022 | XXNet| ACM MM | Dense Feature Aggregation and Pruning for RGBT Tracking |  [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350928)
+219 | 2022 | XXNet| ACM MM | Prompting for Multi-Modal Tracking |  [Paper](https://arxiv.org/abs/2207.14571)
+219 | 2021 | XXNet| IJCV | Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking |   [Paper](https://link.springer.com/article/10.1007/s11263-021-01495-3)
+219 | 2021 | XXNet| TIV | Quality-Aware Feature Aggregation Network for Robust RGBT Tracking |  [Paper](https://ieeexplore.ieee.org/abstract/document/9035457)
+219 | 2020 | XXNet| ECCV | Challenge-Aware RGBT Tracking | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_14)
+219 | 2020 | XXNet| Information Fusion | Object fusion tracking based on visible and infrared images: A comprehensive review |  [Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)
+219 | 2019 | XXNet| PR | RGB-T object tracking: Benchmark and baseline | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320319302808)
+219 | 2020 | XXNet| CVPR | Cross-Modal Pattern-Propagation for RGB-T Tracking | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)
+
+
 
 ## Datasets
-- GTOT [[PDF](https://ieeexplore.ieee.org/document/7577747)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
-- RGBT234 Dataset [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302808)][[link](https://sites.google.com/view/ahutracking001/)]
-- LasHeR Dataset [[PDF](https://arxiv.org/abs/2104.13202)][[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+- GTOT [Paper](https://ieeexplore.ieee.org/document/7577747)/[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
+- RGBT234 Dataset [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302808)/[link](https://sites.google.com/view/ahutracking001/)
+- LasHeR Dataset [Paper](https://arxiv.org/abs/2104.13202)/[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 
 ## Tools
+
+------
+
+
+
+
+
+
+
 
 # 8. RGB-T Alignment
 :rocket::rocket::rocket:Update (in 2023-12-26)
