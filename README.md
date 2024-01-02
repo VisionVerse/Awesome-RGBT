@@ -64,7 +64,7 @@ We will continue to update this repository :running::running::running:
 10 | 2023 | PRLNet | TIP | Position-Aware Relation Learning for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10113883)/Project
 9 | 2023 | MGAINet | TCSVT | Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10003255)/[Project](https://github.com/huanglm-me/VI-RGBT1500)
 8 | 2023 | CAVER | TIP | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Project](https://github.com/lartpang/caver)
-7 | 2023 | xxx | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Project
+7 | 2023 | C3A | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Project
 6 | 2023 | WaveNet | TIP | WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10127616)/[Project](https://github.com/nowander/WaveNe)
 5 | 2023 | xxx | ICIP | Feature Enhancement and Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10222404)/Project
 4 | 2023 | xxx | arXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2311.14746)/Project
