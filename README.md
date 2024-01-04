@@ -13,7 +13,7 @@ We will continue to update this repository :running::running::running:
 
 ## Contents  
 1. [RGB-T Fusion](#1-RGB-T-fusion)
-2. [RGB-T Salient Object Detection](#2-RGB-T-Salient-Object-Detection)
+2. [RGB-T Salient Object Detection (SOD)](#2-RGB-T-Salient-Object-Detection)
 3. [RGB-T Vehicle Detection](#3-RGB-T-Vehicle-Detection)
 4. [RGB-T Crowd Counting](#4-RGB-T-Crowd-Counting)
 5. [RGB-T Pedestrian Detection](#5-RGB-T-Pedestrian-Detection)
