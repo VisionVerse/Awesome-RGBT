@@ -1,4 +1,5 @@
 # Awesome RGB-T Application
+![avatar](/thermal.png)
 A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning.
 
 The main directions involved are RGB-T Fusion, RGB-T Salient Object Detection (SOD), RGB-T Vehicle Detection (VD), RGB-T Crowd Counting (CC), RGB-T Pedestrian Detection (PD), RGB-T Semantic Segmeantaion (SS), RGB-T Tracking.
