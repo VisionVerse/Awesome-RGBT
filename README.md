@@ -248,6 +248,12 @@ We will continue to update this repository :running::running::running:
 -------
 
 
+
+
+
+
+
+
 # 6. RGB-T Semantic Segmeantaion
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
@@ -260,6 +266,13 @@ We will continue to update this repository :running::running::running:
 ## Tools
 
 -------
+
+
+
+
+
+
+
 
 
 # 7. RGB-T Tracking
@@ -297,8 +310,9 @@ We will continue to update this repository :running::running::running:
 
 
 # 8. RGB-T ReID
-:rocket::rocket::rocket:Update (in 2024-01-07)
+- VIReID: visible-infrared person re-identification
 
+:rocket::rocket::rocket:Update (in 2024-01-07)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 219 | 2024 | FDNM | arXiv | Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification | [Paper]([https://arxiv.org/pdf/2305.10469.pdf](https://arxiv.org/abs/2401.02162))/[Project]()
