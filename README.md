@@ -28,9 +28,10 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-1 | 2023 | RFVIF| Information Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
-1 | 2019 |  | Information Fusion |  Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)/[Project]
-1 | 2016 | GTF| Information Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
+1 | 2024 | - | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[Project]/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
+1 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
+1 | 2019 | - | Inf. Fusion |  Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)/[Project]
+1 | 2016 | GTF| Inf. Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
 
 ## Datasets
 
