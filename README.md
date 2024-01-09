@@ -24,7 +24,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2023-12-26)
+:rocket::rocket::rocket:Update (in 2024-01-09)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -51,8 +51,9 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2023-12-26)
+:rocket::rocket::rocket:Update (in 2024-01-06)
 
+**2023:**
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 18 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
@@ -73,6 +74,10 @@ We will continue to update this repository :running::running::running:
 3 | 2023 | xxx | ACM MM | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612466)/[Project](https://github.com/ZZ2490/SPNet)
 2 | 2023 | FFANet | PR | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007409)/Project
 1 | 2023 | xxx | arXiv | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/abs/2311.16835)/Project
+
+**2022:**
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
 17 | 2022 | xxx | AI | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)/Project
 16 | 2022 | MIA_DPD | NC | Multi-modal Interactive Attention and Dual Progressive Decoding Network for RGB-D/T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222002971)/[Project](https://github.com/Liangyh18/MIA_DPD)
 19 | 2023 | CMDBIFNet | TCSVT | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/10032588)/Project
@@ -92,6 +97,10 @@ We will continue to update this repository :running::running::running:
 3 | 2022 | MFENet | DSP | MFENet: Multitype fusion and enhancement network for detecting salient objects in RGB-T images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200422004444)/[Project](https://github.com/wujunyi1412/MFENet_DSP)
 2 | 2022 | xxx | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Project
 1 | 2022 | ACMANet | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011406)/[Project](https://github.com/xanxuso/ACMANet)
+
+**~2021:**
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-  | :-: 
 10 | 2021 | MIDD | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)/Project
 9 | 2021 | ECFFNet | TCSVT | ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9420662)/[Results](https://pan.baidu.com/share/init?surl=Cp6RQMwX3GOTdn3PNyQ72A)(tx48)
 8 | 2021 | xxx | TCSVT | Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9439490)/Project
@@ -109,8 +118,8 @@ We will continue to update this repository :running::running::running:
 3 | 2019 | M3S-NIR | MIPR | M3S-NIR: Multi-Modal Multi-Scale Noise-Insensitive Ranking for RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8695412)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 2 | 2019| CGL | TMM | RGB-T Image Saliency Detection via Collaborative Graph Learning | [Paper](https://ieeexplore.ieee.org/document/8744296)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 1 | 2019| Net | TCSVT | RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach | [Paper](https://ieeexplore.ieee.org/document/8891733)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
-1| 2018  | Net | IGTA | RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and a Novel Approach | [Paper](https://link.springer.com/chapter/10.1007/978-981-13-1702-6_36)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
-1| 2017  | Net |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)/Project
+1 | 2018  | Net | IGTA | RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and a Novel Approach | [Paper](https://link.springer.com/chapter/10.1007/978-981-13-1702-6_36)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
+1 | 2017  | Net |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)/Project
 
 
 ## Datasets
