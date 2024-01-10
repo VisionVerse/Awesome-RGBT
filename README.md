@@ -116,7 +116,7 @@ We will continue to update this repository :running::running::running:
 1 | 2017  | Net |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)/Project
 
 
-**RGB, RGB-D SOD, et al**
+**RGB, RGB-D SOD, _et al._:**
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 1 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
