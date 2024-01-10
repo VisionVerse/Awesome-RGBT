@@ -123,10 +123,10 @@ We will continue to update this repository :running::running::running:
 1 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
 
 ## Datasets
-- VT821 Dataset [Paper](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf)/[link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)
-- VT1000 Dataset [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)/[link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)
-- VT5000 Dataset [Paper](https://arxiv.org/pdf/2007.03262.pdf)/[link](https://pan.baidu.com/s/196S1GcnI56Vn6fLO3oXb5Q)[y9jj]
-- VT723 Dataset [Paper](https://arxiv.org/pdf/2207.03558.pdf)/[link](https://drive.google.com/file/d/12gEUFG2yWi3uBTjLymQ3hjnDUHGcgADq/view)
+- VT821 Dataset: [Paper](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf), [link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)
+- VT1000 Dataset: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296), [link](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view)
+- VT5000 Dataset: [Paper](https://arxiv.org/pdf/2007.03262.pdf), [link](https://pan.baidu.com/s/196S1GcnI56Vn6fLO3oXb5Q) [y9jj]
+- VT723 Dataset: [Paper](https://arxiv.org/pdf/2207.03558.pdf), [link](https://drive.google.com/file/d/12gEUFG2yWi3uBTjLymQ3hjnDUHGcgADq/view)
 
 ## Tools
 
@@ -159,9 +159,9 @@ We will continue to update this repository :running::running::running:
 1 | 2022 | Net| RS | Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy  |  [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
 
 ## Datasets
-- DroneVehicle: partially aligned [[link](https://github.com/VisDrone/DroneVehicle)
-- VEDAI: strictly aligned [[link](https://downloads.greyc.fr/vedai/)
-- Multispectral Datasets for Detection and Segmentation: with Segmentation annotation  [[link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
+- DroneVehicle: partially aligned, [link](https://github.com/VisDrone/DroneVehicle)
+- VEDAI: strictly aligned, [link](https://downloads.greyc.fr/vedai/)
+- Multispectral Datasets for Detection and Segmentation: with Segmentation annotation, [link](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
 
 ## Tools
 
@@ -186,8 +186,8 @@ We will continue to update this repository :running::running::running:
 
 
 ## Datasets
-- RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)
-- DroneCrowd [[link](https://github.com/VisDrone/DroneCrowd)
+- RGBT-CC, [link](http://lingboliu.com/RGBT_Crowd_Counting.html)
+- DroneCrowd, [link](https://github.com/VisDrone/DroneCrowd)
 
 ## Tools
 
@@ -309,9 +309,9 @@ We will continue to update this repository :running::running::running:
 
 
 ## Datasets
-- GTOT [Paper](https://ieeexplore.ieee.org/document/7577747)/[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
-- RGBT234 Dataset [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302808)/[link](https://sites.google.com/view/ahutracking001/)
-- LasHeR Dataset [Paper](https://arxiv.org/abs/2104.13202)/[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
+- GTOT: [Paper](https://ieeexplore.ieee.org/document/7577747), [link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
+- RGBT234 Dataset: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319302808), [link](https://sites.google.com/view/ahutracking001/)
+- LasHeR Dataset: [Paper](https://arxiv.org/abs/2104.13202), /[link](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 
 ## Tools
 
