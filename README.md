@@ -129,6 +129,9 @@ We will continue to update this repository :running::running::running:
 - VT723 Dataset: [Paper](https://arxiv.org/pdf/2207.03558.pdf), [link](https://drive.google.com/file/d/12gEUFG2yWi3uBTjLymQ3hjnDUHGcgADq/view)
 
 ## Tools
+- Python version: [CPU version](https://github.com/lartpang/PySODEvalToolkit) and [GPU version](https://github.com/zyjwuyan/SOD_Evaluation_Metrics)
+- Matlab version:  [here(include weighted F)](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) and [here](http://dpfan.net/d3netbenchmark/)
+
 
 -------
 
@@ -190,6 +193,8 @@ We will continue to update this repository :running::running::running:
 - DroneCrowd, [link](https://github.com/VisDrone/DroneCrowd)
 
 ## Tools
+- [DEFNet](https://github.com/panyi95/DEFNet)
+- [BL+IADM](http://lingboliu.com/RGBT_Crowd_Counting.html)
 
 -------
 
@@ -312,8 +317,12 @@ We will continue to update this repository :running::running::running:
 ## Datasets
 - [MFNet](http://www.mi.t.u-tokyo.ac.jp/static/projects/mil)
 - [PST9000](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)
+- [SemanticRT](https://github.com/jiwei0921/SemanticRT)
+
 
 ## Tools
+- [RTFNet](https://github.com/yuxiangsun/RTFNet)
+- [GMNet](https://github.com/Jinfu0913/GMNet)
 
 -------
 
