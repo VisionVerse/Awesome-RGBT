@@ -310,6 +310,8 @@ We will continue to update this repository :running::running::running:
 
 
 ## Datasets
+- [MFNet](http://www.mi.t.u-tokyo.ac.jp/static/projects/mil)
+- [PST9000](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)
 
 ## Tools
 
