@@ -106,6 +106,7 @@ We will continue to update this repository :running::running::running:
 3 | 2021 | SwinNet | TCSVT | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Project](https://github.com/liuzywen/SwinNet)
 2 | 2021 | xxx | TCSVT | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)/Project
 1 | 2021 | xxx | CYBER | Salient Target Detection in RGB-T Image based on Multi-level Semantic Information| [Paper](https://ieeexplore.ieee.org/document/9588280)/Project
+5 | 2020 | FuseSeg | TASE | FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion | [Paper](https://ieeexplore.ieee.org/document/9108585)/[Project]()
 4 | 2020 | FMNet | TIP | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/document/8935533)/Project
 3 | 2020 | Net | TCSVT | Revisiting Feature Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9161021)/Project
 2 | 2020 | DASOD | AAAI | Multi-Spectral Salient Object Detection by Adversarial **Domain Adaptation** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6879)/Project
