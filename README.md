@@ -1,4 +1,5 @@
-# Awesome RGB-T Application
+# Awesome RGB-T Application [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)
+
 ![avatar](/thermal.png)
 A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning.
 
