@@ -213,11 +213,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 5. RGB-T Pedestrian Detection
-:rocket::rocket::rocket:Update (in 2023-12-26)
-
+:rocket::rocket::rocket:Update (in 2024-03-12)
 <!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+8 | 2023 | TFDet | ACM MM | Target-Aware Fusion for RGB-T Pedestrian Detection | [Paper](https://arxiv.org/abs/2305.16580)/[Project](https://github.com/XueZ-phd/TFDet)
 7 | 2023 | AANet | ACM MM | Attentive Alignment Network for Multispectral Pedestrian Detection | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613444)/[Project]
 6 | 2023 | CALNet| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)/Project
 5 | 2023 | XXNet| TCSVT | Stabilizing Multispectral Pedestrian Detection with Evidential Hybrid Fusion |  [Paper](https://ieeexplore.ieee.org/abstract/document/10225383)
@@ -336,10 +336,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2023-12-26)
+:rocket::rocket::rocket:Update (in 2024-03-12)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+5 | 2023 | MPLT | arXiv | RGB-T Tracking via Multi-Modal Mutual Prompt Learning | [Paper](https://arxiv.org/abs/2308.16386)/[Project](https://github.com/HusterYoung/MPLT)
 5 | 2023 | XXNet| arXiv | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 4 | 2023 | XXNet| ICME | MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking |   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219799)
 3 | 2023 | XXNet| CVPR |  Visual Prompt Multi-Modal Tracking |  [Paper](https://arxiv.org/abs/2303.10826)/[Project](https://github.com/jiawen-zhu/ViPT)
