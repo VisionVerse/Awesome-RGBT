@@ -217,6 +217,8 @@ We will continue to update this repository :running::running::running:
 <!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+9 | 2024 | M2FNet | TMM | M2FNet: Mask-guided Multi-level Fusion for RGB-T Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10478590)/Project
+|||||
 8 | 2023 | TFDet | arXiv | Target-Aware Fusion for RGB-T Pedestrian Detection | [Paper](https://arxiv.org/abs/2305.16580)/[Project](https://github.com/XueZ-phd/TFDet)
 7 | 2023 | AANet | ACM MM | Attentive Alignment Network for Multispectral Pedestrian Detection | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613444)/[Project]
 6 | 2023 | CALNet| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)/Project
