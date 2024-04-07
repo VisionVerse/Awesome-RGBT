@@ -38,8 +38,6 @@ We will continue to update this repository :running::running::running:
 
 ## Tools
 
-
-**[⬆ back to top](#contents)**
 --------
 
 
@@ -410,6 +408,7 @@ We will continue to update this repository :running::running::running:
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
 - 
 
+**[⬆ back to top](#contents)**
 -------
 
 ## :wave::wave::wave: Thanks to the above authors for their excellent work！
