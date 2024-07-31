@@ -29,11 +29,16 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-1 | 2024 | - | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[Project]/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
-1 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
-1 | 2019 | - | Inf. Fusion |  Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)/[Project]
+4 | 2024 | - | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[Project]/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
+3 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
+1 | 2023 | MURF  | TPAMI | :sparkles: MURF：Mutually Reinforcing Multi-Modal Image Registration and Fusion | [Paper](https://ieeexplore.ieee.org/document/10145843)/[Project](https://github.com/hanna-xu/MURF)
+1 | 2022 | RFNet  | CVPR | :sparkles: RFNet：Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf)/[Project](https://github.com/hanna-xu/MURF)
+1 | 2020 | U2Fusion  | TPAMI | :sparkles: U2Fusion: A Unified Unsupervised Image Fusion Network  | [Paper](https://ieeexplore.ieee.org/document/9151265)/[Project]([https://github.com/hanna-xu/MURF](https://github.com/hanna-xu/U2Fusion))
+2 | 2019 | - | Inf. Fusion |  Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)/[Project]
 1 | 2016 | GTF| Inf. Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
 
+
+:sparkles: ： Group of Professor Ma at WHU
 ## Datasets
 
 ## Tools
