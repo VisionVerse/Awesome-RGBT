@@ -228,7 +228,7 @@ We will continue to update this repository :running::running::running:
 <!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-10 | 2024 | TFDet | TMMTNNLS | TFDet: Target-Aware Fusion for RGB-T Pedestrian Detection| [Paper](https://ieeexplore.ieee.org/document/10645696)/[Project](https://github.com/XueZ-phd/TFDet)
+10 | 2024 | TFDet | TNNLS | TFDet: Target-Aware Fusion for RGB-T Pedestrian Detection| [Paper](https://ieeexplore.ieee.org/document/10645696)/[Project](https://github.com/XueZ-phd/TFDet)
 9 | 2024 | M2FNet | TMM | M2FNet: Mask-guided Multi-level Fusion for RGB-T Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10478590)/Project
 |||||
 8 | 2023 | TFDet | arXiv | Target-Aware Fusion for RGB-T Pedestrian Detection | [Paper](https://arxiv.org/abs/2305.16580)/[Project](https://github.com/XueZ-phd/TFDet)
