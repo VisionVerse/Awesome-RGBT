@@ -224,7 +224,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 5. RGB-T Pedestrian Detection
-:rocket::rocket::rocket:Update (in 2024-03-12)
+:rocket::rocket::rocket:Update (in 2024-08-29)
 <!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
