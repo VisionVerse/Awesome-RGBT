@@ -71,7 +71,6 @@ We will continue to update this repository :running::running::running:
 2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
 1 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
  | | | | |
- 19 | 2024 | I2UNet | MIA | I2U-Net: A dual-path U-Net with rich information interaction for medical image segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S136184152400166X)/[Project]([https://github.com/zyrant/LSNet](https://github.com/duweidai/I2U-Net))
 18 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
 17 | 2023 | Scribble | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
 16 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
@@ -111,7 +110,7 @@ We will continue to update this repository :running::running::running:
 2 | 2022 | xxx | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Project
 1 | 2022 | ACMANet | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011406)/[Project](https://github.com/xanxuso/ACMANet)
  | | | | |
-11 | 2024 | 综述 |电子学报 | Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
+11 | 2021 | 综述 |电子学报 | Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
 10 | 2021 | MIDD | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)/Project
 9 | 2021 | ECFFNet | TCSVT | ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9420662)/[Results](https://pan.baidu.com/share/init?surl=Cp6RQMwX3GOTdn3PNyQ72A)(tx48)
 8 | 2021 | xxx | TCSVT | Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9439490)/Project
