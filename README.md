@@ -65,11 +65,10 @@ We will continue to update this repository :running::running::running:
 
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
 - https://github.com/lz118/RGBT-Salient-Object-Detection
-- https://github.com/VisionVerse/Awesome-RGBT
-- https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+3 | 2024 | 综述 |电子学报 | 基Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
 2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
 1 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
  | | | | |
