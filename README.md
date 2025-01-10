@@ -65,12 +65,15 @@ We will continue to update this repository :running::running::running:
 
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
 - https://github.com/lz118/RGBT-Salient-Object-Detection
+- https://github.com/VisionVerse/Awesome-RGBT
+- https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
 1 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
  | | | | |
+ 19 | 2024 | I2UNet | MIA | I2U-Net: A dual-path U-Net with rich information interaction for medical image segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S136184152400166X)/[Project]([https://github.com/zyrant/LSNet](https://github.com/duweidai/I2U-Net))
 18 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
 17 | 2023 | Scribble | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
 16 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
