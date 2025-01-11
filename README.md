@@ -1,4 +1,4 @@
-# Awesome RGB-T Application [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)
+![image](https://github.com/user-attachments/assets/a37c6a49-9f59-465e-aaf9-7042dfea71be)# Awesome RGB-T Application [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)
 
 ![avatar](/thermal.png)
 A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning.
@@ -71,6 +71,8 @@ We will continue to update this repository :running::running::running:
 2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
 1 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
  | | | | |
+ 23 | 2020 | ConTriNet | IEEE | Divide-and-Conquer: Modality-aware Triple-Decoder Network for Robust RGB-T Salient Object Detection | [Paper](https://cser-tang-hao.github.io/contrinet.html)
+ 22 | 2024 | PCNet | arXiv | Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network | [Paper](https://arxiv.org/abs/2412.14576)/[Project](https://github.com/Angknpng/PCNet)
  21 | 2024 | I2UNet | MIA | I2U-Net: A dual-path U-Net with rich information interaction for medical image segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S136184152400166X)/[Project](https://github.com/duweidai/I2U-Net)
  20 | 2023 | 综述 |数据采集与处理 | Deep Learning Based Salient Object Detection: A Survey（中文） | [Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002)
  19 | 2019 | 综述 | CVM | 显著物体检测综述（本文为CVM 2019期刊论文中译版） |  [Paper](https://mmcheng.net/wp-content/uploads/2021/10/CVM19_SalientObjectSurvey-CN.pdf?utm_source=chatgpt.com)
