@@ -73,7 +73,7 @@ We will continue to update this repository :running::running::running:
  | | | | |
  21 | 2024 | I2UNet | MIA | I2U-Net: A dual-path U-Net with rich information interaction for medical image segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S136184152400166X)/[Project](https://github.com/duweidai/I2U-Net)
  20 | 2023 | 综述 |数据采集与处理 | Deep Learning Based Salient Object Detection: A Survey（中文） | [Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002)
- 19 | 2019 | 综述 | CVM | 显著物体检测综述（本文为CVM 2019期刊论文中译版） |  [Paper]([https://ieeexplore.ieee.org/document/10042233](https://mmcheng.net/wp-content/uploads/2021/10/CVM19_SalientObjectSurvey-CN.pdf?utm_source=chatgpt.com))
+ 19 | 2019 | 综述 | CVM | 显著物体检测综述（本文为CVM 2019期刊论文中译版） |  [Paper](https://mmcheng.net/wp-content/uploads/2021/10/CVM19_SalientObjectSurvey-CN.pdf?utm_source=chatgpt.com)
 18 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
 17 | 2023 | Scribble | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
 16 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
