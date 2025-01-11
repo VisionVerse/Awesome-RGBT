@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a37c6a49-9f59-465e-aaf9-7042dfea71be)# Awesome RGB-T Application [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)
+# Awesome RGB-T Application [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)
 
 ![avatar](/thermal.png)
 A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning.
@@ -59,7 +59,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2024-01-10)
+:rocket::rocket::rocket:Update (in 2025-01-11)
 ## Review Papers
 
 
