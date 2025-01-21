@@ -59,7 +59,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-01-11)
+:rocket::rocket::rocket:Update (in 2025-01-21)
 ## Review Papers
 
 
@@ -140,7 +140,7 @@ We will continue to update this repository :running::running::running:
 **RGB, RGB-D SOD, _et al._:**
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/Yangzhangcst/Mamba-in-CV) 
+2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
 1 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
 
 ## Datasets
