@@ -303,6 +303,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+02 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/[Project]()
 01 | 2024 | CAITNet | TMM | Context-Aware Interaction Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Project](https://github.com/YingLv1106/CAINet)
  | | | | |
 12 | 2023 | - | TITS | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Project
