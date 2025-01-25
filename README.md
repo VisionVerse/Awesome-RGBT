@@ -299,11 +299,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2024-01-14)
+:rocket::rocket::rocket:Update (in 2025-01-25)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-02 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/[Project]()
+03 | 2024 | OpenRSS | ECCV | Open-Vocabulary RGB-Thermal Semantic Segmentation  | [Paper](https://eccv.ecva.net/virtual/2024/poster/409)/[Project](https://github.com/SXDR/OpenRSS)
+02 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/[Project]
 01 | 2024 | CAITNet | TMM | Context-Aware Interaction Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Project](https://github.com/YingLv1106/CAINet)
  | | | | |
 12 | 2023 | - | TITS | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Project
