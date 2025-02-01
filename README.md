@@ -137,7 +137,8 @@ We will continue to update this repository :running::running::running:
 1 | 2017  | Net |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)/Project
 
 
-**RGB, RGB-D SOD, _et al._:**
+## RGB, RGB-D, RGB(V)-D-T, Co- SOD, _et al._:
+
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
