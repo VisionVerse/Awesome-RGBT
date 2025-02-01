@@ -80,7 +80,6 @@ We will continue to update this repository :running::running::running:
 17 | 2023 | Scribble | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
 16 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
 15 | 2023 | TAGFNet | EAAI | Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006303)/[Project](https://github.com/VDT-2048/TAGFNet)
-14 | 2023 | MFFNet | TMM | MFFNet: Multi-modal Feature Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10171982)/Project
 13 | 2023 | FANet | NC | Feature aggregation with transformer for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223004526)/[Project](https://github.com/ELOESZHANG/FANet)
 12 | 2023 | MENet | NC | MENet: Lightweight multimodality enhancement network for detecting salient objects in RGB-thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223000358)/Project
 11 | 2023 | TIDNet | KBS | Three-stream interaction decoder network for RGB-thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011005)/[Project](https://github.com/huofushuo/TIDNet)
@@ -141,8 +140,9 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
-1 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
+3 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
+2 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
+1 | 2023 | MFFNet | TMM | MFFNet: Multi-modal Feature Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10171982)/Project
 
 ## Datasets
 - VT821 Dataset: [Paper](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf), [link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)
