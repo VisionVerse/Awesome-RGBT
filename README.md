@@ -61,10 +61,9 @@ We will continue to update this repository :running::running::running:
 # 2. RGB-T Salient Object Detection
 :rocket::rocket::rocket:Update (in 2025-01-21)
 ## Review Papers
-
-
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
 - https://github.com/lz118/RGBT-Salient-Object-Detection
+
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
