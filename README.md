@@ -140,12 +140,13 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-6 | 2019 | LV-Net | TGRS |Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://li-chongyi.github.io/proj_optical_saliency.html?utm_source=catalyzex.com)/[Project](https://li-chongyi.github.io/sub_projects.html)
-5 | 2025 | TRNet | TCSVT |TRNet: Two-Tier Recursion Network for Co-Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10855555)/[Project](https://github.com/rmcong/TRNet_TCSVT2025)
-4 | 2025 | IFENet | TIP | IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10841969)/[Project](https://github.com/Lx-Bao/IFENet)
-3 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
-2 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
+
+2 | 2025 | TRNet | TCSVT |TRNet: Two-Tier Recursion Network for Co-Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10855555)/[Project](https://github.com/rmcong/TRNet_TCSVT2025)
+1 | 2025 | IFENet | TIP | IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10841969)/[Project](https://github.com/Lx-Bao/IFENet)
+2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
+1 | 2024 | - | TIP | Rethinking Object Saliency Ranking: A Novel Whole-Flow Processing Paradigm | [Paper](https://ieeexplore.ieee.org/document/10362980)/[Project](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)
 1 | 2023 | MFFNet | TMM | MFFNet: Multi-modal Feature Fusion Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10171982)/Project
+1 | 2019 | LV-Net | TGRS |Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://li-chongyi.github.io/proj_optical_saliency.html?utm_source=catalyzex.com)/[Project](https://li-chongyi.github.io/sub_projects.html)
 
 ## Datasets
 - VT821 Dataset: [Paper](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1702-6_36.pdf), [link](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?resourcekey=0-Kgoo3x0YJW83oNSHm5-LEw)
@@ -209,7 +210,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-3 | 2025 | MISF-Net | IEEE | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
+3 | 2025 | MISF-Net | TMM | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
 2 | 2022 | XXNet| arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
 1 | 2022 | XXNet| ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
 1 | 2021 | XXNet| CVPR | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://arxiv.org/pdf/2012.04529.pdf)/[Project](https://github.com/chen-judge/RGBTCrowdCounting)
