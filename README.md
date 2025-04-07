@@ -140,7 +140,6 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-
 2 | 2025 | TRNet | TCSVT |TRNet: Two-Tier Recursion Network for Co-Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10855555)/[Project](https://github.com/rmcong/TRNet_TCSVT2025)
 1 | 2025 | IFENet | TIP | IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10841969)/[Project](https://github.com/Lx-Bao/IFENet)
 2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
