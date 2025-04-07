@@ -139,6 +139,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+6 | 2019 | LV-Net | TGRS |Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://li-chongyi.github.io/proj_optical_saliency.html?utm_source=catalyzex.com)/[Project](https://li-chongyi.github.io/sub_projects.html)
 5 | 2025 | TRNet | IEEE |TRNet: Two-Tier Recursion Network for Co-Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10855555)/[Project](https://github.com/rmcong/TRNet_TCSVT2025)
 4 | 2025 | IFENet | IEEE | IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10841969)/[Project](https://github.com/Lx-Bao/IFENet)
 3 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
