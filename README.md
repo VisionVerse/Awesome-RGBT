@@ -67,6 +67,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+4 | 2025 | TCINet | IEEE | Three-decoder Cross-modal Interaction Network for Unregistered RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10947101)/[Project](https://github.com/zqiuqiu235/TCINet)
 3 | 2024 | ConTriNet | TPAMI | Divide-and-Conquer: Modality-aware Triple-Decoder Network for Robust RGB-T Salient Object Detection | [Paper](https://cser-tang-hao.github.io/contrinet.html)/[Project](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
 2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
 1 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
@@ -307,6 +308,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+02 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing  | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
 01 | 2025 | SCRNet | PR | Resolving semantic conflicts in RGB-T semantic segmentation  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000585)/[Project]
 03 | 2024 | OpenRSS | ECCV | Open-Vocabulary RGB-Thermal Semantic Segmentation  | [Paper](https://eccv.ecva.net/virtual/2024/poster/409)/[Project](https://github.com/SXDR/OpenRSS)
 02 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/[Project]
