@@ -28,7 +28,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2024-01-09)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 4 | 2024 | - | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[Project]/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
 3 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
 1 | 2023 | MURF  | TPAMI | :sparkles: MURF：Mutually Reinforcing Multi-Modal Image Registration and Fusion | [Paper](https://ieeexplore.ieee.org/document/10145843)/[Project](https://github.com/hanna-xu/MURF)
@@ -140,7 +140,7 @@ We will continue to update this repository :running::running::running:
 ## RGB, RGB-D, RGB(V)-D-T, Co-, RS, Underwater SOD, _et al._:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 5 | 2025 | LiteSalNet | TGRS | A Lightweight Multistream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/document/10945380)/[Project](https://github.com/ai-kunkun/LiteSalNet)
 4 | 2025 | DSSN | TGRS | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline | [Paper](https://ieeexplore.ieee.org/document/10950441/keywords#keywords)/[Project](https://github.com/laprf/HRSSD)
 3 | 2025 | SPDE | TCSVT | Underwater Salient Object Detection via Dual-Stage Self-Paced Learning and Depth Emphasis | [Paper](https://ieeexplore.ieee.org/document/10744585)/[Project](https://github.com/NIT-JJH/SPDE)
@@ -181,7 +181,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 3 | 2023 | Net| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)
 3 | 2023 | Net| TNNLS | LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10144688)
 2 | 2023 | Net| RS | GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime | [Paper](https://www.mdpi.com/2072-4292/14/12/2771)
@@ -212,7 +212,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2025-02-05)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 3 | 2025 | MISF-Net | TMM | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
 2 | 2022 | XXNet| arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
 1 | 2022 | XXNet| ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
@@ -249,7 +249,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2024-08-29)
 <!-- 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]() -->
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 9 | 2024 | TFDet | TNNLS | TFDet: Target-Aware Fusion for RGB-T Pedestrian Detection| [Paper](https://ieeexplore.ieee.org/document/10645696)/[Project](https://github.com/XueZ-phd/TFDet)
 8 | 2024 | M2FNet | TMM | M2FNet: Mask-guided Multi-level Fusion for RGB-T Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10478590)/Project
 |||||
@@ -311,7 +311,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2025-02-01)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 02 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing  | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
 01 | 2025 | SCRNet | PR | Resolving semantic conflicts in RGB-T semantic segmentation  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000585)/[Project]
 03 | 2024 | OpenRSS | ECCV | Open-Vocabulary RGB-Thermal Semantic Segmentation  | [Paper](https://eccv.ecva.net/virtual/2024/poster/409)/[Project](https://github.com/SXDR/OpenRSS)
@@ -381,7 +381,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2024-03-12)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 5 | 2023 | MPLT | arXiv | RGB-T Tracking via Multi-Modal Mutual Prompt Learning | [Paper](https://arxiv.org/abs/2308.16386)/[Project](https://github.com/HusterYoung/MPLT)
 5 | 2023 | XXNet| arXiv | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 4 | 2023 | XXNet| ICME | MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking |   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219799)
@@ -419,7 +419,7 @@ We will continue to update this repository :running::running::running:
 
 :rocket::rocket::rocket:Update (in 2024-01-07)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 219 | 2024 | FDNM | arXiv | Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification | [Paper](https://arxiv.org/pdf/2401.02162.pdf)/[Project]
 
 
@@ -435,7 +435,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
+:-: | :-: | :-: | :-:  | :-  | :-: 
 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 
 ## Datasets
