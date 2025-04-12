@@ -67,6 +67,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+5 | 2025 | KAN-SAM | arXiv | KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection | [Paper](https://arxiv.org/html/2504.05878v1)/Project
 4 | 2025 | TCINet | TIM | Three-decoder Cross-modal Interaction Network for Unregistered RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10947101)/[Project](https://github.com/zqiuqiu235/TCINet)
 3 | 2024 | ConTriNet | TPAMI | Divide-and-Conquer: Modality-aware Triple-Decoder Network for Robust RGB-T Salient Object Detection | [Paper](https://cser-tang-hao.github.io/contrinet.html)/[Project](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
 2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
@@ -140,6 +141,8 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+5 | 2025 | LiteSalNet | TGRS | A Lightweight Multistream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/document/10945380)/[Project](https://github.com/ai-kunkun/LiteSalNet)
+4 | 2025 | DSSN | TGRS | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline | [Paper](https://ieeexplore.ieee.org/document/10950441/keywords#keywords)/[Project](https://github.com/laprf/HRSSD)
 3 | 2025 | SPDE | TCSVT | Underwater Salient Object Detection via Dual-Stage Self-Paced Learning and Depth Emphasis | [Paper](https://ieeexplore.ieee.org/document/10744585)/[Project](https://github.com/NIT-JJH/SPDE)
 2 | 2025 | TRNet | TCSVT |TRNet: Two-Tier Recursion Network for Co-Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10855555)/[Project](https://github.com/rmcong/TRNet_TCSVT2025)
 1 | 2025 | IFENet | TIP | IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10841969)/[Project](https://github.com/Lx-Bao/IFENet)
