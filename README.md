@@ -136,10 +136,11 @@ We will continue to update this repository :running::running::running:
 1 | 2017  | Net |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)/Project
 
 
-## RGB, RGB-D, RGB(V)-D-T, Co-, RS SOD, _et al._:
+## RGB, RGB-D, RGB(V)-D-T, Co-, RS, Underwater SOD, _et al._:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
+3 | 2025 | SPDE | TCSVT | Underwater Salient Object Detection via Dual-Stage Self-Paced Learning and Depth Emphasis | [Paper](https://ieeexplore.ieee.org/document/10744585)/[Project](https://github.com/NIT-JJH/SPDE)
 2 | 2025 | TRNet | TCSVT |TRNet: Two-Tier Recursion Network for Co-Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10855555)/[Project](https://github.com/rmcong/TRNet_TCSVT2025)
 1 | 2025 | IFENet | TIP | IFENet: Interaction, Fusion, and Enhancement Network for V-D-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10841969)/[Project](https://github.com/Lx-Bao/IFENet)
 2 | 2024 | MambaSOD | arXiv | MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/abs/2410.15015)/[Project](https://github.com/YueZhan721/MambaSOD) 
