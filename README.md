@@ -141,6 +141,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+6 | 2025 | MFINet | EAAI | Multi-modal feature integration network for Visible-Depth-Thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007341)/[Project](https://github.com/banjamn/MFINet)
 5 | 2025 | LiteSalNet | TGRS | A Lightweight Multistream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/document/10945380)/[Project](https://github.com/ai-kunkun/LiteSalNet)
 4 | 2025 | DSSN | TGRS | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline | [Paper](https://ieeexplore.ieee.org/document/10950441/keywords#keywords)/[Project](https://github.com/laprf/HRSSD)
 3 | 2025 | SPDE | TCSVT | Underwater Salient Object Detection via Dual-Stage Self-Paced Learning and Depth Emphasis | [Paper](https://ieeexplore.ieee.org/document/10744585)/[Project](https://github.com/NIT-JJH/SPDE)
