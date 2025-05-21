@@ -382,10 +382,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2024-03-12)
+:rocket::rocket::rocket:Update (in 2025-05-21)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2025 | AETrack | TCSVT | Adaptive Expert Decision for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10973112)
 5 | 2023 | MPLT | arXiv | RGB-T Tracking via Multi-Modal Mutual Prompt Learning | [Paper](https://arxiv.org/abs/2308.16386)/[Project](https://github.com/HusterYoung/MPLT)
 5 | 2023 | XXNet| arXiv | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 4 | 2023 | XXNet| ICME | MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking |   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219799)
