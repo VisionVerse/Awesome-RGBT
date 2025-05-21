@@ -60,9 +60,6 @@ We will continue to update this repository :running::running::running:
 
 # 2. RGB-T Salient Object Detection
 :rocket::rocket::rocket:Update (in 2025-05-21)
-## Review Papers
-- https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
-- https://github.com/lz118/RGBT-Salient-Object-Detection
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -137,6 +134,12 @@ We will continue to update this repository :running::running::running:
 1 | 2019| Net | TCSVT | RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach | [Paper](https://ieeexplore.ieee.org/document/8891733)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 1 | 2018  | Net | IGTA | RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and a Novel Approach | [Paper](https://link.springer.com/chapter/10.1007/978-981-13-1702-6_36)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 1 | 2017  | Net |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)/Project
+
+## Review Papers
+- https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
+- https://github.com/lz118/RGBT-Salient-Object-Detection
+
+
 
 
 ## RGB, RGB-D, RGB(V)-D-T, Co-, RS, Underwater SOD, _et al._:
