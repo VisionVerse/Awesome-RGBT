@@ -67,6 +67,8 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+7 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
+6 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
 5 | 2025 | KAN-SAM | arXiv | KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection | [Paper](https://arxiv.org/html/2504.05878v1)/Project
 4 | 2025 | TCINet | TIM | Three-decoder Cross-modal Interaction Network for Unregistered RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10947101)/[Project](https://github.com/zqiuqiu235/TCINet)
 3 | 2024 | ConTriNet | TPAMI | Divide-and-Conquer: Modality-aware Triple-Decoder Network for Robust RGB-T Salient Object Detection | [Paper](https://cser-tang-hao.github.io/contrinet.html)/[Project](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
@@ -141,9 +143,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-9 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
-8 | 2025 | HDANet | TGRS | HDANet: Enhancing Underwater Salient Object Detection With Physics-Inspired Multimodal Joint Learning | [Paper](https://ieeexplore.ieee.org/document/10980214)/[Project](https://github.com/mikurules/USOD-HDANet)
-7 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
+7 | 2025 | HDANet | TGRS | HDANet: Enhancing Underwater Salient Object Detection With Physics-Inspired Multimodal Joint Learning | [Paper](https://ieeexplore.ieee.org/document/10980214)/[Project](https://github.com/mikurules/USOD-HDANet)
 6 | 2025 | MFINet | EAAI | Multi-modal feature integration network for Visible-Depth-Thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007341)/[Project](https://github.com/banjamn/MFINet)
 5 | 2025 | LiteSalNet | TGRS | A Lightweight Multistream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/document/10945380)/[Project](https://github.com/ai-kunkun/LiteSalNet)
 4 | 2025 | DSSN | TGRS | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline | [Paper](https://ieeexplore.ieee.org/document/10950441/keywords#keywords)/[Project](https://github.com/laprf/HRSSD)
