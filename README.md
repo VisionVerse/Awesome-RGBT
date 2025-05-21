@@ -59,7 +59,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-04-23)
+:rocket::rocket::rocket:Update (in 2025-05-21)
 ## Review Papers
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
 - https://github.com/lz118/RGBT-Salient-Object-Detection
@@ -141,6 +141,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+7 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
 6 | 2025 | MFINet | EAAI | Multi-modal feature integration network for Visible-Depth-Thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007341)/[Project](https://github.com/banjamn/MFINet)
 5 | 2025 | LiteSalNet | TGRS | A Lightweight Multistream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/document/10945380)/[Project](https://github.com/ai-kunkun/LiteSalNet)
 4 | 2025 | DSSN | TGRS | Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline | [Paper](https://ieeexplore.ieee.org/document/10950441/keywords#keywords)/[Project](https://github.com/laprf/HRSSD)
