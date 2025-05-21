@@ -141,6 +141,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+9 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
 8 | 2025 | HDANet | TGRS | HDANet: Enhancing Underwater Salient Object Detection With Physics-Inspired Multimodal Joint Learning | [Paper](https://ieeexplore.ieee.org/document/10980214)/[Project](https://github.com/mikurules/USOD-HDANet)
 7 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
 6 | 2025 | MFINet | EAAI | Multi-modal feature integration network for Visible-Depth-Thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007341)/[Project](https://github.com/banjamn/MFINet)
