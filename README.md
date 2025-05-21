@@ -313,6 +313,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+03 | 2025 | - | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
 02 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing  | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
 01 | 2025 | SCRNet | PR | Resolving semantic conflicts in RGB-T semantic segmentation  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000585)/[Project]
 03 | 2024 | OpenRSS | ECCV | Open-Vocabulary RGB-Thermal Semantic Segmentation  | [Paper](https://eccv.ecva.net/virtual/2024/poster/409)/[Project](https://github.com/SXDR/OpenRSS)
