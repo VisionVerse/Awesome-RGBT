@@ -106,12 +106,12 @@ We will continue to update this repository :running::running::running:
 10 | 2022 | xx | EAAI | Unidirectional RGB-T salient object detection with intertwined driving of encoding and fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622002743?casa_token=U7ht7JQv8I0AAAAA:qDCBrnwUB5vZGaE4veYfJnqwnvOfQiShCo_h5R13B_eEoqMdp0zj2Uec4lTusZjLS1rPxemxoiY)/Project
 9 | 2022 | EAF-Net | MVA | EAF-Net: an enhancement and aggregation–feedback network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s00138-022-01312-y)/Project
 8 | 2022 | SwinMCNet | arXiv | Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection | [Paper](https://arxiv.org/abs/2207.03558)/[Project](https://github.com/jxr326/SwinMCNet)
-7 | 2022 | xxx | CVIU | Enabling modality interactions for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314222001047?casa_token=C76YSYF1K0sAAAAA:sdxNjSIR7xXcAt36D301rTrGYoqaKkMG42z2Uz7la0F675vHQo_BSQB94mZfXI_LsmX6fmvFaw)/Project
+7 | 2022 | xxx | CVIU | Enabling modality interactions for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314222001047?casa_token=C76YSYF1K0sAAAAA:sdxNjSIR7xXcAt36D301rTrGYoqaKkMG42z2Uz7la0F675vHQo_BSQB94mZfXI_LsmX6fmvFaw)
 6 | 2022 | MCFNet | AI | Modal complementary fusion network for RGB-T salient object detection | [Paper](https://link.springer.com/article/10.1007/s10489-022-03950-1)/[Project](https://github.com/dotaball/MCFNet)
 5 | 2022 | TNet | TMM | Does Thermal really always matter for RGB-T salient object detection | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Project](https://rmcong.github.io/proj_TNet.html)
-4 | 2022 | xxx | Arxiv | Interactive Context-Aware Network for RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2211.06097.pdf)/Project
+4 | 2022 | ICANet | Arxiv | Interactive Context-Aware Network for RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2211.06097.pdf)
 3 | 2022 | MFENet | DSP | MFENet: Multitype fusion and enhancement network for detecting salient objects in RGB-T images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200422004444)/[Project](https://github.com/wujunyi1412/MFENet_DSP)
-2 | 2022 | xxx | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Project
+2 | 2022 | - | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)
 1 | 2022 | ACMANet | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011406)/[Project](https://github.com/xanxuso/ACMANet)
  | | | | |
 11 | 2021 | 综述 |电子学报 | Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
