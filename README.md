@@ -191,13 +191,13 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-3 | 2023 | Net| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)
-3 | 2023 | Net| TNNLS | LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10144688)
-2 | 2023 | Net| RS | GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime | [Paper](https://www.mdpi.com/2072-4292/14/12/2771)
-1 | 2023 | Net| PR | Cross-modality attentive feature fusion for object detection in multispectral remote sensing imagery |  [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322002679)
-3 | 2022 | Net| ECCV | Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection  |  [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690501.pdf)
-2 | 2022 | Net| TCSVT | Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning |  [Paper](https://ieeexplore.ieee.org/abstract/document/9759286)
-1 | 2022 | Net| RS | Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy  |  [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
+3 | 2023 | CALNet| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)
+3 | 2023 | LRAF-Net| TNNLS | LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10144688)
+2 | 2023 | GF-detection| RS | GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime | [Paper](https://www.mdpi.com/2072-4292/14/12/2771)
+1 | 2023 | CMAFF| PR | Cross-modality attentive feature fusion for object detection in multispectral remote sensing imagery |  [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322002679)
+3 | 2022 | TSRA| ECCV | Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection  |  [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690501.pdf)
+2 | 2022 | UA-CMDet| TCSVT | Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning |  [Paper](https://ieeexplore.ieee.org/abstract/document/9759286)
+1 | 2022 | RISNet| RS | Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy  |  [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
 
 ## Datasets
 - DroneVehicle: partially aligned, [link](https://github.com/VisDrone/DroneVehicle)
