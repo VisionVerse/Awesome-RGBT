@@ -59,7 +59,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-05-21)
+:rocket::rocket::rocket:Update (in 2025-06-26)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
