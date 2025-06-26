@@ -66,10 +66,10 @@ We will continue to update this repository :running::running::running:
 :-: | :-: | :-: | :-:  | :-  | :-: 
 7 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
 6 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
-5 | 2025 | KAN-SAM | arXiv | KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection | [Paper](https://arxiv.org/html/2504.05878v1)/Project
+5 | 2025 | KAN-SAM | arXiv | KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection | [Paper](https://arxiv.org/html/2504.05878v1)
 4 | 2025 | TCINet | TIM | Three-decoder Cross-modal Interaction Network for Unregistered RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10947101)/[Project](https://github.com/zqiuqiu235/TCINet)
 3 | 2024 | ConTriNet | TPAMI | Divide-and-Conquer: Modality-aware Triple-Decoder Network for Robust RGB-T Salient Object Detection | [Paper](https://cser-tang-hao.github.io/contrinet.html)/[Project](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
-2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)/[Project]
+2 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)
 1 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
  | | | | |
  22 | 2024 | PCNet | arXiv | Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network | [Paper](https://arxiv.org/abs/2412.14576)/[Project](https://github.com/Angknpng/PCNet)
@@ -81,15 +81,15 @@ We will continue to update this repository :running::running::running:
 16 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
 15 | 2023 | TAGFNet | EAAI | Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006303)/[Project](https://github.com/VDT-2048/TAGFNet)
 13 | 2023 | FANet | NC | Feature aggregation with transformer for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223004526)/[Project](https://github.com/ELOESZHANG/FANet)
-12 | 2023 | MENet | NC | MENet: Lightweight multimodality enhancement network for detecting salient objects in RGB-thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223000358)/Project
+12 | 2023 | MENet | NC | MENet: Lightweight multimodality enhancement network for detecting salient objects in RGB-thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223000358)
 11 | 2023 | TIDNet | KBS | Three-stream interaction decoder network for RGB-thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011005)/[Project](https://github.com/huofushuo/TIDNet)
 10 | 2023 | PRLNet | TIP | Position-Aware Relation Learning for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10113883)/[Project](https://github.com/VisionVerse/PRLNet)
 9 | 2023 | MGAINet | TCSVT | Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10003255)/[Project](https://github.com/huanglm-me/VI-RGBT1500)
 8 | 2023 | CAVER | TIP | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Project](https://github.com/lartpang/caver)
-7 | 2023 | C3A | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)/Project
+7 | 2023 | C3A | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)
 6 | 2023 | WaveNet | TIP | WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10127616)/[Project](https://github.com/nowander/WaveNe)
-5 | 2023 | xxx | ICIP | Feature Enhancement and Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10222404)/Project
-4 | 2023 | xxx | arXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2311.14746)/Project
+5 | 2023 | - | ICIP | Feature Enhancement and Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10222404)
+4 | 2023 | - | arXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2311.14746)
 3 | 2023 | xxx | ACM MM | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612466)/[Project](https://github.com/ZZ2490/SPNet)
 2 | 2023 | FFANet | PR | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007409)
 1 | 2023 | UniSOD | arXiv | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/abs/2311.16835)/[Project](https://github.com/Angknpng/UniSOD)
