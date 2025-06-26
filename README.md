@@ -187,7 +187,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 3. RGB-T Vehicle Detection
-:rocket::rocket::rocket:Update (in 2023-12-26)
+:rocket::rocket::rocket:Update (in 2025-06-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
