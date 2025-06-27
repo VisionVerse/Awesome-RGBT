@@ -328,12 +328,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-06-21)
+:rocket::rocket::rocket:Update (in 2025-06-27)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
 4 | 2025 | IQSeg | PR | Implicit alignment and query refinement for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006119)
-3 | 2025 | - | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
+3 | 2025 | CCFFNet | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
 2 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
 1 | 2025 | SCRNet | PR | Resolving semantic conflicts in RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000585)
  | | | | |
@@ -341,15 +341,15 @@ We will continue to update this repository :running::running::running:
 2 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)
 1 | 2024 | CAITNet | TMM | Context-Aware Interaction Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Project](https://github.com/YingLv1106/CAINet)
  | | | | |
-12 | 2023 | - | TITS | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Project
+12 | 2023 | ECGF-ARL | TITS | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Project
 11 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
-10 | 2023 | - | PR | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Project
+10 | 2023 | CCFFNet | PR | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Project
 9 | 2023 | MMSMCNet | TCSVT | MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10123009)/[Project](https://github.com/2021nihao/MMSMCNet)
 8 | 2023 | CACFNet | TIV | CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/10251592)
 7 | 2023 | DBCNet | TSMC | DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles | [Paper](https://ieeexplore.ieee.org/abstract/document/10217340)
 6 | 2023 | SGFNet | TCSVT | SGFNet: Semantic-Guided Fusion Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/10138593)/[Project](https://github.com/monxxcn/NaDiNet)
 5 | 2023 | DPLNet | arxiv | Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning | [Paper](https://arxiv.org/abs/2312.00360)/[Project](https://github.com/ShaohuaDong2021/DPLNet)
-4 | 2023 | - | TITS | A RGB-Thermal Image Segmentation Method Based on Parameter Sharing and Attention Fusion for Safe Autonomous Driving | [Paper](https://ieeexplore.ieee.org/abstract/document/10337777)
+4 | 2023 | FI | TITS | A RGB-Thermal Image Segmentation Method Based on Parameter Sharing and Attention Fusion for Safe Autonomous Driving | [Paper](https://ieeexplore.ieee.org/abstract/document/10337777)
 3 | 2023 | UTFNet | GRSL | UTFNet: Uncertainty-Guided Trustworthy Fusion Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10273407)/[Project](https://github.com/KustTeamWQW/UTFNet)
 2 | 2023 | SFAF-MA | TIM | SFAF-MA: Spatial Feature Aggregation and Fusion With Modality Adaptation for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10103760)/[Project](https://github.com/hexunjie/SFAF-MA)
 1 | 2023 | SASEM | TIV | On Exploring Shape and Semantic Enhancements for RGB-X Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10185113)/[Project](https://github.com/HenonBamboo/SASEM)
@@ -361,12 +361,12 @@ We will continue to update this repository :running::running::running:
 4 | 2022 | GCNet | Neurocomputing | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)
 3 | 2022 | LASNet | TCSVT | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Project](https://github.com/MathLee/LASNet)
 2 | 2022 | GEBNet | SPL | GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/9937048/)/[Project](https://github.com/ShaohuaDong2021/GEBNet)
-1 | 2022 | - | TCSVT | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)
+1 | 2022 | FDCNet | TCSVT | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)
  | | | | |
 8 | 2021 | GMNet | TIP | GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9531449)/[Project](https://github.com/Jinfu0913/GMNet)
 7 | 2021 | ABMDRNet |  CVPR | ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)
 6 | 2021 | FEANet | IROS | FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation | [Paper](https://arxiv.org/pdf/2110.08988.pdf)/[Project](https://github.com/matrixgame2018/FEANet)
-5 | 2021 | - |  Measurement | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)
+5 | 2021 | MLFNet |  Measurement | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)
 4 | 2021 | MFFENet | TMM | MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/9447924)/[Project](https://wujiezhou.github.io/)
 3 | 2021 | MMNet | Applied Intelligence | MMNet: Multi-modal multi-stage network for RGB-T image semantic segmentation | [Paper](https://link.springer.com/article/10.1007/s10489-021-02687-7)
 2 | 2021 | CCAFFMNet| Neurocomputing | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)
@@ -374,7 +374,7 @@ We will continue to update this repository :running::running::running:
  | | | | |
 3 | 2020 | PST900 | ICRA | PST900: RGB-Thermal Calibration, Dataset and Segmentation Network | [Paper](https://ieeexplore.ieee.org/document/9196831)/[Project](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)
 2 | 2020 | FuseSeg | TASE | FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion | [Paper](https://ieeexplore.ieee.org/document/9108585)
-1 | 2020 | - | CINE | Using thermal intensities to build conditional random fields for object segmentation at night | [Paper](https://ieeexplore.ieee.org/document/9080716)
+1 | 2020 | spark | CINE | Using thermal intensities to build conditional random fields for object segmentation at night | [Paper](https://ieeexplore.ieee.org/document/9080716)
  | | | | |
 1 | 2019| RTFNet | RAL | RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes | [Paper](https://ieeexplore.ieee.org/document/8666745)/[Project](https://github.com/yuxiangsun/RTFNet)
  | | | | |
