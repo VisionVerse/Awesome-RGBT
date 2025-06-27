@@ -31,11 +31,11 @@ We will continue to update this repository :running::running::running:
 :-: | :-: | :-: | :-:  | :-  | :-: 
 4 | 2024 | - | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
 3 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
-1 | 2023 | MURF  | TPAMI | :sparkles: MURF：Mutually Reinforcing Multi-Modal Image Registration and Fusion | [Paper](https://ieeexplore.ieee.org/document/10145843)/[Project](https://github.com/hanna-xu/MURF)
-1 | 2022 | RFNet  | CVPR | :sparkles: RFNet：Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf)/[Project](https://github.com/hanna-xu/MURF)
-1 | 2020 | U2Fusion  | TPAMI | :sparkles: U2Fusion: A Unified Unsupervised Image Fusion Network  | [Paper](https://ieeexplore.ieee.org/document/9151265)/[Project](https://github.com/hanna-xu/MURF](https://github.com/hanna-xu/U2Fusion))
+1 | 2023 | MURF | TPAMI | :sparkles: MURF：Mutually Reinforcing Multi-Modal Image Registration and Fusion | [Paper](https://ieeexplore.ieee.org/document/10145843)/[Project](https://github.com/hanna-xu/MURF)
+1 | 2022 | RFNet | CVPR | :sparkles: RFNet：Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf)/[Project](https://github.com/hanna-xu/MURF)
+1 | 2020 | U2Fusion | TPAMI | :sparkles: U2Fusion: A Unified Unsupervised Image Fusion Network  | [Paper](https://ieeexplore.ieee.org/document/9151265)/[Project](https://github.com/hanna-xu/MURF](https://github.com/hanna-xu/U2Fusion))
 2 | 2019 | - | Inf. Fusion |  Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)
-1 | 2016 | GTF| Inf. Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
+1 | 2016 | GTF | Inf. Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
 
 
 :sparkles: ： Group of Professor Ma at WHU
@@ -74,7 +74,7 @@ We will continue to update this repository :running::running::running:
  | | | | |
  22 | 2024 | PCNet | arXiv | Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network | [Paper](https://arxiv.org/abs/2412.14576)/[Project](https://github.com/Angknpng/PCNet)
  21 | 2024 | I2UNet | MIA | I2U-Net: A dual-path U-Net with rich information interaction for medical image segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S136184152400166X)/[Project](https://github.com/duweidai/I2U-Net)
- 20 | 2023 | 综述 |数据采集与处理 | Deep Learning Based Salient Object Detection: A Survey（中文） | [Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002)
+ 20 | 2023 | 综述 | 数据采集与处理 | Deep Learning Based Salient Object Detection: A Survey（中文） | [Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002)
  19 | 2019 | 综述 | CVM | 显著物体检测综述（本文为CVM 2019期刊论文中译版） |  [Paper](https://mmcheng.net/wp-content/uploads/2021/10/CVM19_SalientObjectSurvey-CN.pdf?utm_source=chatgpt.com)
 18 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
 17 | 2023 | Scribble | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
@@ -114,7 +114,7 @@ We will continue to update this repository :running::running::running:
 2 | 2022 | C³A | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)
 1 | 2022 | ACMANet | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011406)/[Project](https://github.com/xanxuso/ACMANet)
  | | | | |
-11 | 2021 | 综述 |电子学报 | Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
+11 | 2021 | 综述 | 电子学报 | Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
 10 | 2021 | MIDD | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)
 9 | 2021 | ECFFNet | TCSVT | ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9420662)/[Results](https://pan.baidu.com/share/init?surl=Cp6RQMwX3GOTdn3PNyQ72A)(tx48)
 8 | 2021 | MMNet | TCSVT | Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9439490)
@@ -133,7 +133,7 @@ We will continue to update this repository :running::running::running:
 2 | 2019| CGL | TMM | RGB-T Image Saliency Detection via Collaborative Graph Learning | [Paper](https://ieeexplore.ieee.org/document/8744296)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 1 | 2019| cooperative ranking | TCSVT | RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach | [Paper](https://ieeexplore.ieee.org/document/8891733)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 1 | 2018  | graph-based multi-task manifold ranking | IGTA | RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and a Novel Approach | [Paper](https://link.springer.com/chapter/10.1007/978-981-13-1702-6_36)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
-1 | 2017  | LMDF-SVMR |ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)
+1 | 2017  | LMDF-SVMR | ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)
 
 ## Other Overview Repository
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
@@ -191,13 +191,13 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-3 | 2023 | CALNet| ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)
-3 | 2023 | LRAF-Net| TNNLS | LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10144688)
-2 | 2023 | GF-detection| RS | GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime | [Paper](https://www.mdpi.com/2072-4292/14/12/2771)
-1 | 2023 | CMAFF| PR | Cross-modality attentive feature fusion for object detection in multispectral remote sensing imagery |  [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322002679)
-3 | 2022 | TSRA| ECCV | Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection  |  [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690501.pdf)
-2 | 2022 | UA-CMDet| TCSVT | Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning |  [Paper](https://ieeexplore.ieee.org/abstract/document/9759286)
-1 | 2022 | RISNet| RS | Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy  |  [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
+3 | 2023 | CALNet | ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)
+3 | 2023 | LRAF-Net | TNNLS | LRAF-Net: Long-Range Attention Fusion Network for Visible–Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10144688)
+2 | 2023 | GF-detection | RS | GF-Detection: Fusion with GAN of Infrared and Visible Images for Vehicle Detection at Nighttime | [Paper](https://www.mdpi.com/2072-4292/14/12/2771)
+1 | 2023 | CMAFF | PR | Cross-modality attentive feature fusion for object detection in multispectral remote sensing imagery |  [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322002679)
+3 | 2022 | TSRA | ECCV | Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection  |  [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690501.pdf)
+2 | 2022 | UA-CMDet | TCSVT | Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning |  [Paper](https://ieeexplore.ieee.org/abstract/document/9759286)
+1 | 2022 | RISNet | RS | Improving RGB-Infrared Object Detection by Reducing Cross-Modality Redundancy  |  [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
 
 ## Datasets
 - DroneVehicle: partially aligned, [link](https://github.com/VisDrone/DroneVehicle)
@@ -218,15 +218,15 @@ We will continue to update this repository :running::running::running:
 
 
 # 4. RGB-T Crowd Counting
-:rocket::rocket::rocket:Update (in 2025-02-05)
+:rocket::rocket::rocket:Update (in 2025-06-27)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
 3 | 2025 | MISF-Net | TMM | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
-2 | 2022 | XXNet| arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
-1 | 2022 | XXNet| ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
-1 | 2021 | XXNet| CVPR | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://arxiv.org/pdf/2012.04529.pdf)/[Project](https://github.com/chen-judge/RGBTCrowdCounting)
-1 | 2020 | XXNet| ACCV | RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)/[Project](https://github.com/VisDrone/DroneRGBT)
+2 | 2022 | MAFNet | arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
+1 | 2022 | MAT | ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
+1 | 2021 | IADM | CVPR | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://arxiv.org/pdf/2012.04529.pdf)/[Project](https://github.com/chen-judge/RGBTCrowdCounting)
+1 | 2020 | MMCCN | ACCV | RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)/[Project](https://github.com/VisDrone/DroneRGBT)
 
 
 ## Datasets
