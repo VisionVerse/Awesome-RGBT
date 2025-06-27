@@ -269,27 +269,27 @@ We will continue to update this repository :running::running::running:
 |||||
 7 | 2023 | AANet | ACM MM | Attentive Alignment Network for Multispectral Pedestrian Detection | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613444)
 6 | 2023 | CALNet | ACM MM | Multispectral Object Detection via Cross-Modal Conflict-Aware Learning | [Paper](https://dl.acm.org/doi/10.1145/3581783.3612651)
-5 | 2023 | XXNet | TCSVT | Stabilizing Multispectral Pedestrian Detection with Evidential Hybrid Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/10225383)
-4 | 2023 | XXNet | CVPRW | Multimodal Object Detection by Channel Switching and Spatial Attention | [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.pdf)
-3 | 2023 | XXNet | TITS | Multi-Modal Feature Pyramid Transformer for RGB-Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10105844)
-2 | 2023 | XXNet | TMM | Multiscale Cross-modal Homogeneity Enhancement and Confidence-aware Fusion for Multispectral Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/document/10114594)
-1 | 2023 | XXNet | RS | HAFNet: Hierarchical Attentive Fusion Network for Multispectral Pedestrian Detection | [Paper](https://www.mdpi.com/2072-4292/15/8/2041)
+5 | 2023 | SMPD | TCSVT | Stabilizing Multispectral Pedestrian Detection with Evidential Hybrid Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/10225383)
+4 | 2023 | CSSA | CVPRW | Multimodal Object Detection by Channel Switching and Spatial Attention | [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.pdf)
+3 | 2023 | MFPT | TITS | Multi-Modal Feature Pyramid Transformer for RGB-Infrared Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10105844)
+2 | 2023 | MCMHE-CAF | TMM | Multiscale Cross-modal Homogeneity Enhancement and Confidence-aware Fusion for Multispectral Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/document/10114594)
+1 | 2023 | HAFNet | RS | HAFNet: Hierarchical Attentive Fusion Network for Multispectral Pedestrian Detection | [Paper](https://www.mdpi.com/2072-4292/15/8/2041)
 |||||
-7 | 2022 | XXNet | ECCV | Multimodal Object Detection via Probabilistic Ensembling | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690139.pdf)
-6 | 2022 | XXNet | ACM MM | Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)
-5 | 2022 | XXNet | TMM | Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9739079)
-4 | 2022 | XXNet | PRCV | Attention-Guided Multi-modal and Multi-scale Fusion for Multispectral Pedestrian Detection | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_30)
-3 | 2022 | XXNet | ICIP | Improving RGB-Infrared Pedestrian Detection by Reducing Cross-Modality Redundancy | [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
-2 | 2022 | XXNet | TITS | Spatio-contextual deep network-based multimodal pedestrian detection for autonomous driving | [Paper](https://ieeexplore.ieee.org/abstract/document/9706418)
-1 | 2022 | XXNet | Sensors | Adopting the YOLOv4 Architecture for Low-LatencyMultispectral Pedestrian Detection in Autonomous Driving | [Paper](https://www.mdpi.com/1424-8220/22/3/1082)
+7 | 2022 | ProbEn | ECCV | Multimodal Object Detection via Probabilistic Ensembling | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690139.pdf)
+6 | 2022 | DCMNet | ACM MM | Learning a Dynamic Cross-Modal Network for Multispectral Pedestrian Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547895)
+5 | 2022 | CMPD | TMM | Confidence-aware Fusion using Dempster-Shafer Theory for Multispectral Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9739079)
+4 | 2022 | AMSF | PRCV | Attention-Guided Multi-modal and Multi-scale Fusion for Multispectral Pedestrian Detection | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_30)
+3 | 2022 | RISNet | ICIP | Improving RGB-Infrared Pedestrian Detection by Reducing Cross-Modality Redundancy | [Paper](https://www.mdpi.com/2072-4292/14/9/2020)
+2 | 2022 | MuFEm | TITS | Spatio-contextual deep network-based multimodal pedestrian detection for autonomous driving | [Paper](https://ieeexplore.ieee.org/abstract/document/9706418)
+1 | 2022 | Sensory Fusion with the YOLOv4 | Sensors | Adopting the YOLOv4 Architecture for Low-LatencyMultispectral Pedestrian Detection in Autonomous Driving | [Paper](https://www.mdpi.com/1424-8220/22/3/1082)
 |||||
-5 | 2021 | XXNet | ICIP | Deep Active Learning from Multispectral Data Through Cross-Modality Prediction Inconsistency | [Paper](https://ieeexplore.ieee.org/document/9506322)
-4 | 2021 | XXNet | Sensors | Attention Fusion for One-Stage Multispectral Pedestrian Detection | [Paper](https://www.mdpi.com/1424-8220/21/12/4184)
-3 | 2021 | XXNet | TCSVT | Uncertainty-Guided Cross-Modal Learning for Robust Multispectral Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/document/9419080)
-2 | 2021 | XXNet | TCSVT | Deep Cross-modal Representation Learning and Distillation for Illumination-invariant Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/document/9357413/)
-1 | 2021 | XXNet | WACV | Guided Attentive Feature Fusion for Multispectral Pedestrian Detection | [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf)
+5 | 2021 | CMPI | ICIP | Deep Active Learning from Multispectral Data Through Cross-Modality Prediction Inconsistency | [Paper](https://ieeexplore.ieee.org/document/9506322)
+4 | 2021 | MCFF | Sensors | Attention Fusion for One-Stage Multispectral Pedestrian Detection | [Paper](https://www.mdpi.com/1424-8220/21/12/4184)
+3 | 2021 | UFF-UCG | TCSVT | Uncertainty-Guided Cross-Modal Learning for Robust Multispectral Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/document/9419080)
+2 | 2021 | CFL | TCSVT | Deep Cross-modal Representation Learning and Distillation for Illumination-invariant Pedestrian Detection | [Paper](https://ieeexplore.ieee.org/document/9357413/)
+1 | 2021 | GAFF | WACV | Guided Attentive Feature Fusion for Multispectral Pedestrian Detection | [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf)
 |||||
-3 | 2020 | XXNet | ICIP | Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks | [Paper](https://hal.archives-ouvertes.fr/hal-02872132/file/icip2020.pdf)
+3 | 2020 | Cyclic Fuse-and-Refine | ICIP | Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks | [Paper](https://hal.archives-ouvertes.fr/hal-02872132/file/icip2020.pdf)
 2 | 2020 | MBNet | ECCV | Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems | [Paper](https://arxiv.org/pdf/2008.03043.pdf)/[Project](https://github.com/CalayZhou/MBNet)
 1 | 2020 | FCRPNMPD | BMVC | Anchor-free Small-scale Multispectral Pedestrian Detection | [Paper](https://arxiv.org/abs/2008.08418)/[Project](https://github.com/HensoldtOptronicsCV/MultispectralPedestrianDetection)
 |||||
@@ -332,23 +332,24 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-04 | 2025 | IQSeg | PR | Implicit alignment and query refinement for RGB-T semantic segmentation  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006119)
-03 | 2025 | - | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
-02 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing  | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
-01 | 2025 | SCRNet | PR | Resolving semantic conflicts in RGB-T semantic segmentation  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000585)/[Project]
-03 | 2024 | OpenRSS | ECCV | Open-Vocabulary RGB-Thermal Semantic Segmentation  | [Paper](https://eccv.ecva.net/virtual/2024/poster/409)/[Project](https://github.com/SXDR/OpenRSS)
-02 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)/[Project]
-01 | 2024 | CAITNet | TMM | Context-Aware Interaction Network for RGB-T Semantic Segmentation  | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Project](https://github.com/YingLv1106/CAINet)
+4 | 2025 | IQSeg | PR | Implicit alignment and query refinement for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006119)
+3 | 2025 | - | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
+2 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
+1 | 2025 | SCRNet | PR | Resolving semantic conflicts in RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000585)
+ | | | | |
+3 | 2024 | OpenRSS | ECCV | Open-Vocabulary RGB-Thermal Semantic Segmentation | [Paper](https://eccv.ecva.net/virtual/2024/poster/409)/[Project](https://github.com/SXDR/OpenRSS)
+2 | 2024 | MDBFNet | TIV | Multi-branch Differential Bidirectional Fusion Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10463157)
+1 | 2024 | CAITNet | TMM | Context-Aware Interaction Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10379106)/[Project](https://github.com/YingLv1106/CAINet)
  | | | | |
 12 | 2023 | - | TITS | Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/10041960)/Project
 11 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
 10 | 2023 | - | PR | Complementarity-aware cross-modal feature fusion network for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322003624)/Project
 9 | 2023 | MMSMCNet | TCSVT | MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10123009)/[Project](https://github.com/2021nihao/MMSMCNet)
-8 | 2023 | CACFNet | TIV | CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/10251592)/Project
-7 | 2023 | DBCNet | TSMC | DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles | [Paper](https://ieeexplore.ieee.org/abstract/document/10217340)/Project
+8 | 2023 | CACFNet | TIV | CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/10251592)
+7 | 2023 | DBCNet | TSMC | DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles | [Paper](https://ieeexplore.ieee.org/abstract/document/10217340)
 6 | 2023 | SGFNet | TCSVT | SGFNet: Semantic-Guided Fusion Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/10138593)/[Project](https://github.com/monxxcn/NaDiNet)
 5 | 2023 | DPLNet | arxiv | Efficient Multimodal Semantic Segmentation via Dual-Prompt Learning | [Paper](https://arxiv.org/abs/2312.00360)/[Project](https://github.com/ShaohuaDong2021/DPLNet)
-4 | 2023 | - | TITS | A RGB-Thermal Image Segmentation Method Based on Parameter Sharing and Attention Fusion for Safe Autonomous Driving | [Paper](https://ieeexplore.ieee.org/abstract/document/10337777)/Project
+4 | 2023 | - | TITS | A RGB-Thermal Image Segmentation Method Based on Parameter Sharing and Attention Fusion for Safe Autonomous Driving | [Paper](https://ieeexplore.ieee.org/abstract/document/10337777)
 3 | 2023 | UTFNet | GRSL | UTFNet: Uncertainty-Guided Trustworthy Fusion Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10273407)/[Project](https://github.com/KustTeamWQW/UTFNet)
 2 | 2023 | SFAF-MA | TIM | SFAF-MA: Spatial Feature Aggregation and Fusion With Modality Adaptation for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10103760)/[Project](https://github.com/hexunjie/SFAF-MA)
 1 | 2023 | SASEM | TIV | On Exploring Shape and Semantic Enhancements for RGB-X Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/10185113)/[Project](https://github.com/HenonBamboo/SASEM)
@@ -356,23 +357,27 @@ We will continue to update this repository :running::running::running:
 8 | 2022 | EGFNet | AAAI | Edge-aware guidance fusion network for RGB–thermal scene parsing | [Paper](https://arxiv.org/abs/2112.05144)/[Project](https://github.com/ShaohuaDong2021/EGFNet)
 7 | 2022 | MTANet | TIV | MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/9749834)/[Project](https://github.com/ShaohuaDong2021/MTANet)
 6 | 2022 | CMX | TITS | CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers | [Paper](https://arxiv.org/pdf/2203.04838v2.pdf)/[Project](https://github.com/huaaaliu/rgbx_semantic_segmentation)
-5 | 2022 | ARTSeg | ACPR | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://arxiv.org/abs/2111.15257)/Project
-4 | 2022 | GCNet | Neurocomputing | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)/Project
+5 | 2022 | ARTSeg | ACPR | ARTSeg: Employing Attention for Thermal Images Semantic Segmentation | [Paper](https://arxiv.org/abs/2111.15257)
+4 | 2022 | GCNet | Neurocomputing | GCNet: Grid-Like Context-Aware Network for RGB-Thermal Semantic Segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009006)
 3 | 2022 | LASNet | TCSVT | RGB-T Semantic Segmentation with Location, Activation, and Sharpening | [Paper](https://ieeexplore.ieee.org/document/9900351/)/[Project](https://github.com/MathLee/LASNet)
 2 | 2022 | GEBNet | SPL | GEBNet: Graph-Enhancement Branch Network for RGB-T Scene Parsing | [Paper](https://ieeexplore.ieee.org/abstract/document/9937048/)/[Project](https://github.com/ShaohuaDong2021/GEBNet)
-1 | 2022 | - | TCSVT | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)/Project
+1 | 2022 | - | TCSVT | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)
+ | | | | |
 8 | 2021 | GMNet | TIP | GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9531449)/[Project](https://github.com/Jinfu0913/GMNet)
-7 | 2021 | ABMDRNet |  CVPR | ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)/Project
-6 | 2021 | FEANet |  IROS | FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation | [Paper](https://arxiv.org/pdf/2110.08988.pdf)/[Project](https://github.com/matrixgame2018/FEANet)
-5 | 2021 | - |  Measurement | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)/Project
+7 | 2021 | ABMDRNet |  CVPR | ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)
+6 | 2021 | FEANet | IROS | FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation | [Paper](https://arxiv.org/pdf/2110.08988.pdf)/[Project](https://github.com/matrixgame2018/FEANet)
+5 | 2021 | - |  Measurement | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)
 4 | 2021 | MFFENet | TMM | MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/9447924)/[Project](https://wujiezhou.github.io/)
-3 | 2021 |  MMNet | Applied Intelligence | MMNet: Multi-modal multi-stage network for RGB-T image semantic segmentation | [Paper](https://link.springer.com/article/10.1007/s10489-021-02687-7)/Project
-2 | 2021 | CCAFFMNet| Neurocomputing | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)/Project
-1 | 2021 |  HeatNet | IROS | HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9341192)/[Project](http://thermal.cs.uni-freiburg.de/)
+3 | 2021 | MMNet | Applied Intelligence | MMNet: Multi-modal multi-stage network for RGB-T image semantic segmentation | [Paper](https://link.springer.com/article/10.1007/s10489-021-02687-7)
+2 | 2021 | CCAFFMNet| Neurocomputing | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)
+1 | 2021 | HeatNet | IROS | HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9341192)/[Project](http://thermal.cs.uni-freiburg.de/)
+ | | | | |
 3 | 2020 | PST900 | ICRA | PST900: RGB-Thermal Calibration, Dataset and Segmentation Network | [Paper](https://ieeexplore.ieee.org/document/9196831)/[Project](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)
-2 | 2020 | FuseSeg | TASE | FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion | [Paper](https://ieeexplore.ieee.org/document/9108585)/Project
-1 | 2020 | - | CINE | Using thermal intensities to build conditional random fields for object segmentation at night | [Paper](https://ieeexplore.ieee.org/document/9080716)/Project
+2 | 2020 | FuseSeg | TASE | FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion | [Paper](https://ieeexplore.ieee.org/document/9108585)
+1 | 2020 | - | CINE | Using thermal intensities to build conditional random fields for object segmentation at night | [Paper](https://ieeexplore.ieee.org/document/9080716)
+ | | | | |
 1 | 2019| RTFNet | RAL | RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes | [Paper](https://ieeexplore.ieee.org/document/8666745)/[Project](https://github.com/yuxiangsun/RTFNet)
+ | | | | |
 1 | 2017 | MFNet | IROS | MFNet: Towards Real-Time Semantic Segmentation for Autonomous Vehicles with Multi-Spectral Scenes | [Paper](https://ieeexplore.ieee.org/document/8206396)/[Project](https://github.com/haqishen/MFNet-pytorch)
 
 
