@@ -25,10 +25,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2024-01-09)
+:rocket::rocket::rocket:Update (in 2025-07-06)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2025 | T2EA | TCSVT | T²EA: Target-Aware Taylor Expansion Approximation Network for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/document/10819442)/[Project](https://github.com/MysterYxby/T2EA)
+2 | 2024 | HitFusion | TMM | HitFusion: Infrared and Visible Image Fusion for High-Level Vision Tasks Using Transformer | [Paper](https://ieeexplore.ieee.org/document/10539339)
 1 | 2024 | CLIP | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
 2 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
 1 | 2023 | MURF | TPAMI | :sparkles: MURF：Mutually Reinforcing Multi-Modal Image Registration and Fusion | [Paper](https://ieeexplore.ieee.org/document/10145843)/[Project](https://github.com/hanna-xu/MURF)
@@ -405,12 +407,14 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2025-06-26)
+:rocket::rocket::rocket:Update (in 2025-07-06)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
 2 | 2025 | MGNet | Neural Networks | MGNet: RGBT tracking via cross-modality cross-region mutual guidance | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878)/[Project](https://github.com/jingyang-csust/MGNet)
 1 | 2025 | AETrack | TCSVT | Adaptive Expert Decision for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10973112)
+2 | 2024 | TGTrack | TCSVT | Top-Down Cross-Modal Guidance for Robust RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10614652)
+1 | 2024 | BAT | AAAI | Bi-directional Adapter for Multimodal Tracking | [Paper](https://doi.org/10.1609/aaai.v38i2.27852)/[Project](https://github.com/SparkTempest/BAT)
 6 | 2023 | MPLT | arXiv | RGB-T Tracking via Multi-Modal Mutual Prompt Learning | [Paper](https://arxiv.org/abs/2308.16386)/[Project](https://github.com/HusterYoung/MPLT)
 5 | 2023 | XMSNet | arXiv | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 4 | 2023 | MTNet | ICME | MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219799)
