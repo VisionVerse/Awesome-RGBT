@@ -61,7 +61,7 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-06-26)
+:rocket::rocket::rocket:Update (in 2025-07-16)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -153,6 +153,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+10 | 2025 | LESOD | PR | LESOD: Lightweight and Efficient Network for RGB-D Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007630)/[Project](https://github.com/mingyu6346/LESOD)
 9 | 2025 | PRANet | Neural Networks | Potential region attention network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005003)
 8 | 2025 | HPI | TIP | Heterogeneous Experts and Hierarchical Perception for Underwater Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11018233)
 7 | 2025 | HDANet | TGRS | HDANet: Enhancing Underwater Salient Object Detection With Physics-Inspired Multimodal Joint Learning | [Paper](https://ieeexplore.ieee.org/document/10980214)/[Project](https://github.com/mikurules/USOD-HDANet)
@@ -330,10 +331,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-06-27)
+:rocket::rocket::rocket:Update (in 2025-07-16)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+5 | 2025 | ERTFNet | CVIU | ERTFNet: Enhanced RGB-T Fusion Network for semantic segmentation by integrating thermal edge features | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001444)
 4 | 2025 | IQSeg | PR | Implicit alignment and query refinement for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006119)
 3 | 2025 | CCFFNet | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
 2 | 2025 | SICFNet | ESWA | SICFNet: Shared Information Interaction and Complementary Feature Fusion Network for RGB-T traffic scene parsing | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425007936)/[Project](https://github.com/BingY998/SICFNet)
@@ -366,9 +368,9 @@ We will continue to update this repository :running::running::running:
 1 | 2022 | FDCNet | TCSVT | A Feature Divide-and-Conquer Network for RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9987529)
  | | | | |
 8 | 2021 | GMNet | TIP | GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/document/9531449)/[Project](https://github.com/Jinfu0913/GMNet)
-7 | 2021 | ABMDRNet |  CVPR | ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)
+7 | 2021 | ABMDRNet | CVPR | ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf)
 6 | 2021 | FEANet | IROS | FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation | [Paper](https://arxiv.org/pdf/2110.08988.pdf)/[Project](https://github.com/matrixgame2018/FEANet)
-5 | 2021 | MLFNet |  Measurement | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)
+5 | 2021 | MLFNet | Measurement | Robust semantic segmentation based on RGB-thermal in variable lighting scenes | [Paper](https://www.sciencedirect.com/science/article/pii/S0263224121010903)
 4 | 2021 | MFFENet | TMM | MFFENet: Multiscale Feature Fusion and Enhancement Network for RGBThermal Urban Road Scene Parsing | [Paper](https://ieeexplore.ieee.org/document/9447924)/[Project](https://wujiezhou.github.io/)
 3 | 2021 | MMNet | Applied Intelligence | MMNet: Multi-modal multi-stage network for RGB-T image semantic segmentation | [Paper](https://link.springer.com/article/10.1007/s10489-021-02687-7)
 2 | 2021 | CCAFFMNet| Neurocomputing | CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017331)
