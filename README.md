@@ -226,10 +226,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 4. RGB-T Crowd Counting
-:rocket::rocket::rocket:Update (in 2025-06-27)
+:rocket::rocket::rocket:Update (in 2025-07-21)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+2 | 2025 | MHKDF | TCSVT | A Mutual Head Knowledge Distillation Framework for Lightweight RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/11080047)/[Project](https://github.com/BaoYangCC/MHKDF)
 1 | 2025 | MISF-Net | TMM | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
 2 | 2022 | MAFNet | arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
 1 | 2022 | MAT | ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
