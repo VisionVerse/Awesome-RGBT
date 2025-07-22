@@ -23,7 +23,7 @@ We will continue to update this repository :running::running::running:
 8. [RGB-T ReID](#8-RGB-T-ReID)
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
-## :mega: News
+## :mega: Update
 - **2025/07/20**: RGB-T CC +1
 - **2025/05/03**: RGB-T Fusion +2, RGB-T Tracking +2
 
@@ -492,5 +492,10 @@ We will continue to update this repository :running::running::running:
 
 **[⬆ back to top](#contents)**
 -------
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VisionVerse/Awesome-RGBT&type=Date)](https://www.star-history.com/#VisionVerse/Awesome-RGBT&Date)
+
 
 ## :wave::wave::wave: Thanks to the above authors for their excellent work！
