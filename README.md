@@ -29,10 +29,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-07-06)
+:rocket::rocket::rocket:Update (in 2025-07-23)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+2 | 2025 | WSFM | TGRS | Weakly Supervised Cross Mixer for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11052679)/[Project](https://github.com/wangwenbo26/WSCM)
 1 | 2025 | T²EA | TCSVT | T²EA: Target-Aware Taylor Expansion Approximation Network for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/document/10819442)/[Project](https://github.com/MysterYxby/T2EA)
 2 | 2024 | HitFusion | TMM | HitFusion: Infrared and Visible Image Fusion for High-Level Vision Tasks Using Transformer | [Paper](https://ieeexplore.ieee.org/document/10539339)
 1 | 2024 | CLIP | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
@@ -336,10 +337,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-07-16)
+:rocket::rocket::rocket:Update (in 2025-07-23)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+6 | 2025 | CFDHI-Net | TITS | CFDHI-Net: Correlation-Driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/11059996)/[Project](https://github.com/donggaomu/CFDHI-Net)
 5 | 2025 | ERTFNet | CVIU | ERTFNet: Enhanced RGB-T Fusion Network for semantic segmentation by integrating thermal edge features | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001444)
 4 | 2025 | IQSeg | PR | Implicit alignment and query refinement for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006119)
 3 | 2025 | CCFFNet | Information Fusion | Towards efficient RGB-T semantic segmentation via feature generative distillation strategy | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003550#preview-section-snippets)
