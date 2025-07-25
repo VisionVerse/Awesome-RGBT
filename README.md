@@ -24,11 +24,11 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/07/25**: RGB-T ReID +7
 - **2025/07/23**: RGB-T Fusion +1, RGB-T SS +1
 - **2025/07/21**: RGB-T CC +1
 - **2025/07/16**: RGB-T SOD +1, RGB-T SS +1
 - **2025/07/06**: RGB-T Fusion +2, RGB-T Tracking +2
-- **2025/06/26**: RGB-T SOD +2, RGB-T Tracking +1
 
 
 # 1. RGB-T Fusion
@@ -462,9 +462,16 @@ We will continue to update this repository :running::running::running:
 # 8. RGB-T ReID
 - VIReID: visible-infrared person re-identification
 
-:rocket::rocket::rocket:Update (in 2024-01-07)
+:rocket::rocket::rocket:Update (in 2024-07-25)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+3 | 2025 | MASM | Neural Networks | Memory-augmented shuffled meta learning for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006926?via%3Dihub)
+2 | 2025 | PMCM | PR | Visible–infrared person re-identification via patch-mixed cross-modality learning | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006241)
+1 | 2025 | DMANet | PR | DMANet: Dual-modality alignment network for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006101)
+5 | 2024 | MIA | Image and Vision Computing | Modality interactive attention for cross-modality person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624002324)
+4 | 2024 | PDEM | Neurocomputing | Progressive discrepancy elimination for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224011585)/[Project](https://github.com/wxz0530/PDEM)
+3 | 2024 | WF-CAMReViT | PR | Enhanced visible–infrared person re-identification based on cross-attention multiscale residual vision transformer | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324000396)
+2 | 2024 | CMGR | Neural Networks | Cross-modal group-relation optimization for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024005008)
 1 | 2024 | FDNM | arXiv | Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification | [Paper](https://arxiv.org/pdf/2401.02162.pdf)
 
 
