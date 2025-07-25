@@ -28,7 +28,7 @@ We will continue to update this repository :running::running::running:
 - **2025/07/23**: RGB-T Fusion +1, RGB-T SS +1
 - **2025/07/21**: RGB-T CC +1
 - **2025/07/16**: RGB-T SOD +1, RGB-T SS +1
-- **2025/07/06**: RGB-T Fusion +2, RGB-T Tracking +2
+- **Since 2025**: RGB-T Fusion +2, RGB-T Tracking +2
 
 
 # 1. RGB-T Fusion
