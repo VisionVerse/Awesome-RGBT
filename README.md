@@ -462,7 +462,7 @@ We will continue to update this repository :running::running::running:
 # 8. RGB-T ReID
 - VIReID: visible-infrared person re-identification
 
-:rocket::rocket::rocket:Update (in 2024-07-25)
+:rocket::rocket::rocket:Update (in 2025-07-25)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
 3 | 2025 | MASM | Neural Networks | Memory-augmented shuffled meta learning for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006926?via%3Dihub)
