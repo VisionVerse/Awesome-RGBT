@@ -147,7 +147,7 @@ We will continue to update this repository :running::running::running:
  | | | | |
 1 | 2018  | graph-based multi-task manifold ranking | IGTA | RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and a Novel Approach | [Paper](https://link.springer.com/chapter/10.1007/978-981-13-1702-6_36)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
  | | | | |
-1 | 2017  | LMDF-SVMR | ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)
+1 | 2017  | MDF-SVM | ISCID | Learning Multiscale Deep Features and SVM Regressors for Adaptive RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8275796)
 
 ## Other Overview Repository
 - https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation
