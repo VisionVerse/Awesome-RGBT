@@ -106,7 +106,7 @@ We will continue to update this repository :running::running::running:
 2 | 2023 | CMDBIF-Net | TCSVT | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/10032588)
 1 | 2023 | MITFNet | TCSVT | Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9925217)
  | | | | |
-17 | 2022 | two-stream encoder-decoder network | AI | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)
+17 | 2022 | TSEDNet | AI | RGB-T salient object detection via CNN feature and result saliency map fusion | [Paper](https://link.springer.com/article/10.1007/s10489-021-02984-1)
 16 | 2022 | MIA_DPD | NC | Multi-modal Interactive Attention and Dual Progressive Decoding Network for RGB-D/T Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222002971)/[Project](https://github.com/Liangyh18/MIA_DPD)
 15 | 2022 | CGMDRNet | TCSVT | CGMDRNet: Cross-Guided Modality Difference Reduction Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9756028)
 14 | 2022 | RGB-T-Glass-Segmentation | ArXiv | Glass Segmentation with RGB-Thermal Image Pairs | [Paper](https://arxiv.org/abs/2204.05453)/[Project](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)
