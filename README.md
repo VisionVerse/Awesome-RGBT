@@ -109,7 +109,7 @@ We will continue to update this repository :running::running::running:
 17 | 2023 | CMDBIFNet | TCSVT | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  | [Paper](https://ieeexplore.ieee.org/abstract/document/10032588)
 16 | 2022 | CGMDRNet | TCSVT | CGMDRNet: Cross-Guided Modality Difference Reduction Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9756028)
 15 | 2023 | MITFNet | TCSVT | Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9925217)
-14 | 2022 | Glass | ArXiv | Glass Segmentation with RGB-Thermal Image Pairs | [Paper](https://arxiv.org/abs/2204.05453)/[Project](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)
+14 | 2022 | RGB-T-Glass-Segmentation | ArXiv | Glass Segmentation with RGB-Thermal Image Pairs | [Paper](https://arxiv.org/abs/2204.05453)/[Project](https://github.com/Dong-Huo/RGB-T-Glass-Segmentation)
 13 | 2022 | DCNet | TIP | Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network | [Paper](https://ieeexplore.ieee.org/abstract/document/9779787)/[Project](https://github.com/lz118/Deep-Correlation-Network)
 12 | 2022 | OSRNet | TIM | Real-time One-stream Semantic-guided Refinement Network for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9803225)/[Project](https://github.com/huofushuo/OSRNet)
 11 | 2022 | CCFENet | TCSVT | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9801871)/[Project](https://git.openi.org.cn/OpenVision/CCFENet)
