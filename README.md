@@ -138,8 +138,8 @@ We will continue to update this repository :running::running::running:
  | | | | |
 4 | 2020 | FMNet | TIP | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/document/8935533)
 3 | 2020 | multi-scale, multi-modality, and multi-level feature fusion | TCSVT | Revisiting Feature Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9161021)
-2 | 2020 | DASOD | AAAI | Multi-Spectral Salient Object Detection by Adversarial **Domain Adaptation** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6879)
-1 | 2020 | DASODv2 | TMM | Deep **Domain Adaptation** Based Multi-spectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)
+2 | 2020 | DASOD | AAAI | Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6879)
+1 | 2020 | RGBN-SOD | TMM | Deep Domain Adaptation Based Multi-spectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)
  | | | | |
 3 | 2019 | M3S-NIR | MIPR | M3S-NIR: Multi-Modal Multi-Scale Noise-Insensitive Ranking for RGB-T Saliency Detection | [Paper](https://ieeexplore.ieee.org/document/8695412)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
 2 | 2019| VT1000 | TMM | RGB-T Image Saliency Detection via Collaborative Graph Learning | [Paper](https://ieeexplore.ieee.org/document/8744296)/[Project](https://github.com/lz118/RGBT-Salient-Object-Detection)
