@@ -133,7 +133,7 @@ We will continue to update this repository :running::running::running:
 5 | 2021 | TSFNet | SPL | TSFNet: Two-Stage Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9508840)
 4 | 2021 | APNet | TETCI | APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9583676)/[Project](https://github.com/zyrant/APNet)
 3 | 2021 | SwinNet | TCSVT | SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection| [Paper](https://ieeexplore.ieee.org/document/9611276)/[Project](https://github.com/liuzywen/SwinNet)
-2 | 2021 | multi-graph fusion and learning | TCSVT | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)
+2 | 2021 | MGFM | TCSVT | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)
 1 | 2021 | DFPN-SIPM | CYBER | Salient Target Detection in RGB-T Image based on Multi-level Semantic Information| [Paper](https://ieeexplore.ieee.org/document/9588280)
  | | | | |
 4 | 2020 | ADFC-MGF | TIP | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/document/8935533)
