@@ -24,11 +24,10 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
-- **2025/07/25**: RGB-T ReID +7
+- **2025/07/25**: RGB-T ReID +3
 - **2025/07/23**: RGB-T Fusion +1, RGB-T SS +1
 - **2025/07/21**: RGB-T CC +1
-- **2025/07/16**: RGB-T SOD +1, RGB-T SS +1
-- **Since 2025**: RGB-T Fusion +2, RGB-T Tracking +2
+- **Since 2025**: RGB-T Fusion +2, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +2, RGB-T PD +0, RGB-T SS +6, RGB-T Tracking +2, RGB-T ReID +3, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
