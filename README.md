@@ -136,7 +136,7 @@ We will continue to update this repository :running::running::running:
 2 | 2021 | multi-graph fusion and learning | TCSVT | Multi-graph Fusion and Learning for RGBT Image Saliency Detection| [Paper](https://ieeexplore.ieee.org/document/9389777)
 1 | 2021 | DFPN-SIPM | CYBER | Salient Target Detection in RGB-T Image based on Multi-level Semantic Information| [Paper](https://ieeexplore.ieee.org/document/9588280)
  | | | | |
-4 | 2020 | FMNet | TIP | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/document/8935533)
+4 | 2020 | ADFC-MGF | TIP | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/document/8935533)
 3 | 2020 | MS-MM-ML-FFM | TCSVT | Revisiting Feature Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9161021)
 2 | 2020 | RGBN-SOD | AAAI | Multi-Spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6879)
 1 | 2020 | RGBN-SOD | TMM | Deep Domain Adaptation Based Multi-spectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308922)
