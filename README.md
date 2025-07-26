@@ -125,7 +125,7 @@ We will continue to update this repository :running::running::running:
 1 | 2022 | ACMANet | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122011406)/[Project](https://github.com/xanxuso/ACMANet)
  | | | | |
 11 | 2021 | 综述 | 电子学报 | Review of the Methods for Salient Object Detection Based on Deep Learning (中文) | [Paper](https://www.ejournal.org.cn/CN/10.12263/DZXB.20200651)
-10 | 2021 | Multi-interactive-Dual-decoder | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)/[Project](https://github.com/lz118/Multi-interactive-Dual-decoder)
+10 | 2021 | MIDD | TIP | Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454273)/[Project](https://github.com/lz118/Multi-interactive-Dual-decoder)
 9 | 2021 | ECFFNet | TCSVT | ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9420662)/[Results](https://pan.baidu.com/share/init?surl=Cp6RQMwX3GOTdn3PNyQ72A)(tx48)
 8 | 2021 | MMNet | TCSVT | Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9439490)
 7 | 2021 | CGFNet | TCSVT | CGFNet: Cross-Guided Fusion Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9493207)/[Project](https://github.com/wangjie0825/CGFNet)
