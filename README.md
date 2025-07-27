@@ -98,7 +98,7 @@ We will continue to update this repository :running::running::running:
 10 | 2023 | CAVER | TIP | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Project](https://github.com/lartpang/caver)
 9 | 2023 | C3A | PR | Cross-modal co-feedback cellular automata for RGB-T saliency detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006185)
 8 | 2023 | WaveNet | TIP | WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10127616)/[Project](https://github.com/nowander/WaveNe)
-7 | 2023 | Self-modality Feature Enhancement Module | ICIP | Feature Enhancement and Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10222404)
+7 | 2023 | CFDFM | ICIP | Feature Enhancement and Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10222404)
 6 | 2023 | AiOSOD | ArXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2311.14746)
 5 | 2023 | SPNet | ACM MM | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612466)/[Project](https://github.com/ZZ2490/SPNet)
 4 | 2023 | FFANet | PR | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323007409)
