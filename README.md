@@ -82,7 +82,6 @@ We will continue to update this repository :running::running::running:
 4 | 2024 | UTDNet | NN | UTDNet: A unified triplet decoder network for multimodal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006755)
 3 | 2024 | MSEDNet | NN | MSEDNet: Multi-scale fusion and edge-supervised network for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007384)/[Project](https://github.com/Zhou-wy/MSEDNet)
 2 | 2025 | PCNet | AAAI | Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network | [Paper](https://arxiv.org/abs/2412.14576)/[Project](https://github.com/Angknpng/PCNet)
-1 | 2024 | I²U-Net | MIA | I²U-Net: A dual-path U-Net with rich information interaction for medical image segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S136184152400166X)/[Project](https://github.com/duweidai/I2U-Net)
  | | | | |
 20 | 2023 | 综述 | 数据采集与处理 | Deep Learning Based Salient Object Detection: A Survey（中文） | [Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002)
 19 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
