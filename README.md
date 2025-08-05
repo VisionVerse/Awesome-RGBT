@@ -24,17 +24,19 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/08/05**: RGB-T Fusion +2, RGB-T Tracking +2
 - **2025/07/25**: RGB-T ReID +3
 - **2025/07/23**: RGB-T Fusion +1, RGB-T SS +1
-- **2025/07/21**: RGB-T CC +1
-- **Since 2025**: RGB-T Fusion +2, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +2, RGB-T PD +0, RGB-T SS +6, RGB-T Tracking +2, RGB-T ReID +3, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +2, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +6, RGB-T Tracking +2, RGB-T ReID +3, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-07-23)
+:rocket::rocket::rocket:Update (in 2025-08-05)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+4 | 2025 | IVFSCA | Infrared Physics & Technology | Infrared and visible image fusion based on spatial correlation attention | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449525002786)
+3 | 2025 | HaIVFusion | IEEE/CAA Journal of Automatica Sinica | HaIVFusion: Haze-free Infrared and Visible Image Fusion | [Paper](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124926)
 2 | 2025 | WSFM | TGRS | Weakly Supervised Cross Mixer for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11052679)/[Project](https://github.com/wangwenbo26/WSCM)
 1 | 2025 | T²EA | TCSVT | T²EA: Target-Aware Taylor Expansion Approximation Network for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/document/10819442)/[Project](https://github.com/MysterYxby/T2EA)
 2 | 2024 | HitFusion | TMM | HitFusion: Infrared and Visible Image Fusion for High-Level Vision Tasks Using Transformer | [Paper](https://ieeexplore.ieee.org/document/10539339)
@@ -417,10 +419,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2025-07-06)
+:rocket::rocket::rocket:Update (in 2025-08-05)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+4 | 2025 | LRPD | ICMR | Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking | [Paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)
+3 | 2025 | MRTTrack | PR | Mining representative tokens via transformer-based multi-modal interaction for RGB-T tracking | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234)/[Project](https://github.com/gao5yy/MRTTrack)
 2 | 2025 | MGNet | Neural Networks | MGNet: RGBT tracking via cross-modality cross-region mutual guidance | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878)/[Project](https://github.com/jingyang-csust/MGNet)
 1 | 2025 | AETrack | TCSVT | Adaptive Expert Decision for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10973112)
 2 | 2024 | TGTrack | TCSVT | Top-Down Cross-Modal Guidance for Robust RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10614652)
