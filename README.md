@@ -36,7 +36,7 @@ We will continue to update this repository :running::running::running:
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
 4 | 2025 | IVFSCA | Infrared Physics & Technology | Infrared and visible image fusion based on spatial correlation attention | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449525002786)
-3 | 2025 | HaIVFusion | IEEE/CAA Journal of Automatica Sinica | HaIVFusion: Haze-free Infrared and Visible Image Fusion | [Paper](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124926)
+3 | 2025 | HaIVFusion | JAS | HaIVFusion: Haze-free Infrared and Visible Image Fusion | [Paper](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124926)
 2 | 2025 | WSFM | TGRS | Weakly Supervised Cross Mixer for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11052679)/[Project](https://github.com/wangwenbo26/WSCM)
 1 | 2025 | T²EA | TCSVT | T²EA: Target-Aware Taylor Expansion Approximation Network for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/document/10819442)/[Project](https://github.com/MysterYxby/T2EA)
 2 | 2024 | HitFusion | TMM | HitFusion: Infrared and Visible Image Fusion for High-Level Vision Tasks Using Transformer | [Paper](https://ieeexplore.ieee.org/document/10539339)
