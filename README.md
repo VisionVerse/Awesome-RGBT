@@ -24,17 +24,18 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/08/11**: RGB-T Fusion +1, RGB-T ss +4
 - **2025/08/05**: RGB-T Fusion +2, RGB-T Tracking +2
 - **2025/07/25**: RGB-T ReID +3
-- **2025/07/23**: RGB-T Fusion +1, RGB-T SS +1
-- **Since 2025**: RGB-T Fusion +2, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +6, RGB-T Tracking +2, RGB-T ReID +3, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +3, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +7, RGB-T Tracking +2, RGB-T ReID +3, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-08-05)
+:rocket::rocket::rocket:Update (in 2025-08-11)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+5 | 2025 | AMSFusion | TCSVT | AMSFusion: An Adaptive Multi-Scale Infrared and Visible Image Fusion Network Based on Attention Mechanisms | [Paper](https://ieeexplore.ieee.org/abstract/document/11114909)
 4 | 2025 | IVFSCA | Infrared Physics & Technology | Infrared and visible image fusion based on spatial correlation attention | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449525002786)
 3 | 2025 | HaIVFusion | JAS | HaIVFusion: Haze-free Infrared and Visible Image Fusion | [Paper](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124926)
 2 | 2025 | WSFM | TGRS | Weakly Supervised Cross Mixer for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11052679)/[Project](https://github.com/wangwenbo26/WSCM)
@@ -340,10 +341,14 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-07-23)
+:rocket::rocket::rocket:Update (in 2025-08-11)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+10 | 2025 | EBFNet | JSEN | Evidence-based Fusion for Low-quality RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/11114806)
+9 | 2025 | Cascaded Embedded-Feature Pyramid Networks | Neurocomputing | Cascaded embedded-FPN: A cross-modality multi-scale feature fusion network for varied-sized objects semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225017539)
+8 | 2025 | WSRT | Neurocomputing | A weight-sharing based RGB-T image semantic segmentation network with hierarchical feature enhancement and progressive feature fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225016959)/[Project](https://github.com/bearxwm/WSRT)
+7 | 2025 | HMFENet | TITS | HMFENet: Hierarchical Matching Guided Feature Enhancement Network for Few-Shot RGB-Thermal Urban Scene Segmentation | [Paper](https://ieeexplore.ieee.org/document/10931852)/[Project](https://github.com/Zhou-xy99/HMFENet)
 6 | 2025 | CFDHI-Net | TITS | CFDHI-Net: Correlation-Driven Feature Decoupling and Hierarchical Integration Network for RGB-Thermal Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/11059996)/[Project](https://github.com/donggaomu/CFDHI-Net)
 5 | 2025 | ERTFNet | CVIU | ERTFNet: Enhanced RGB-T Fusion Network for semantic segmentation by integrating thermal edge features | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001444)
 4 | 2025 | IQSeg | PR | Implicit alignment and query refinement for RGB-T semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006119)
