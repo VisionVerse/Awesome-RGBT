@@ -24,17 +24,18 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/08/11**: RGB-T Fusion +1, RGB-T SOD +1, RGB-T Tracking +1
 - **2025/08/11**: RGB-T Fusion +1, RGB-T ss +4
 - **2025/08/05**: RGB-T Fusion +2, RGB-T Tracking +2
-- **2025/07/25**: RGB-T ReID +3
-- **Since 2025**: RGB-T Fusion +3, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +7, RGB-T Tracking +2, RGB-T ReID +3, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +3, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +7, RGB-T Tracking +2, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-08-11)
+:rocket::rocket::rocket:Update (in 2025-08-27)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+6 | 2025 | LoME | TCSVT | LoME: LoRA-Driven Multimodal Extractor for RGB-X Vision Tasks | [Paper](https://ieeexplore.ieee.org/abstract/document/11133673)/[Project](https://github.com/zyszxhy/LoME)
 5 | 2025 | AMSFusion | TCSVT | AMSFusion: An Adaptive Multi-Scale Infrared and Visible Image Fusion Network Based on Attention Mechanisms | [Paper](https://ieeexplore.ieee.org/abstract/document/11114909)
 4 | 2025 | IVFSCA | Infrared Physics & Technology | Infrared and visible image fusion based on spatial correlation attention | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449525002786)
 3 | 2025 | HaIVFusion | JAS | HaIVFusion: Haze-free Infrared and Visible Image Fusion | [Paper](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124926)
@@ -71,11 +72,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-07-16)
+:rocket::rocket::rocket:Update (in 2025-08-27)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+5 | 2025 | DFINet | TIM | Cognition-Inspired Dynamic Feature Integration Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11131311)
 4 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
 3 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
 2 | 2025 | KAN-SAM | ArXiv | KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection | [Paper](https://arxiv.org/html/2504.05878v1)
@@ -424,10 +426,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2025-08-05)
+:rocket::rocket::rocket:Update (in 2025-08-27)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+5 | 2025 | FMTrack | TCSVT | FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/11134499)/[Project](https://github.com/xyl-507/FMTrack)
 4 | 2025 | LRPD | ICMR | Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking | [Paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)
 3 | 2025 | MRTTrack | PR | Mining representative tokens via transformer-based multi-modal interaction for RGB-T tracking | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234)/[Project](https://github.com/gao5yy/MRTTrack)
 2 | 2025 | MGNet | Neural Networks | MGNet: RGBT tracking via cross-modality cross-region mutual guidance | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878)/[Project](https://github.com/jingyang-csust/MGNet)
