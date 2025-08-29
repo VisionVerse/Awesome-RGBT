@@ -24,10 +24,10 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
-- **2025/08/11**: RGB-T Fusion +1, RGB-T SOD +1, RGB-T Tracking +1
+- **2025/08/29**: RGB-T Fusion +2, RGB-T Tracking +1
+- **2025/08/27**: RGB-T Fusion +1, RGB-T SOD +1, RGB-T Tracking +1
 - **2025/08/11**: RGB-T Fusion +1, RGB-T ss +4
-- **2025/08/05**: RGB-T Fusion +2, RGB-T Tracking +2
-- **Since 2025**: RGB-T Fusion +3, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +7, RGB-T Tracking +2, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +5, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +7, RGB-T Tracking +4, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
@@ -35,6 +35,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+8 | 2025 | SDC-DDF | Neurocomputing | Dual-decoder conditional diffusion model based on spatial-domain difference compensation pre-fusion for infrared and visible image fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225020144)
 7 | 2025 | VCIF | KBS | VCIF: Visually-compelling infrared and visible image fusion under darkness | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125012687)/[Project](https://github.com/JJGNB/VCIF)
 6 | 2025 | LoME | TCSVT | LoME: LoRA-Driven Multimodal Extractor for RGB-X Vision Tasks | [Paper](https://ieeexplore.ieee.org/abstract/document/11133673)/[Project](https://github.com/zyszxhy/LoME)
 5 | 2025 | AMSFusion | TCSVT | AMSFusion: An Adaptive Multi-Scale Infrared and Visible Image Fusion Network Based on Attention Mechanisms | [Paper](https://ieeexplore.ieee.org/abstract/document/11114909)
@@ -427,10 +428,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2025-08-27)
+:rocket::rocket::rocket:Update (in 2025-08-29)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+6 | 2025 | TUMFNet | IJCAI | Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking | [Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2815.pdf)/[Project](https://github.com/dongdong2061/IJCAI25-TUMFNet)
 5 | 2025 | FMTrack | TCSVT | FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/11134499)/[Project](https://github.com/xyl-507/FMTrack)
 4 | 2025 | LRPD | ICMR | Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking | [Paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)
 3 | 2025 | MRTTrack | PR | Mining representative tokens via transformer-based multi-modal interaction for RGB-T tracking | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234)/[Project](https://github.com/gao5yy/MRTTrack)
