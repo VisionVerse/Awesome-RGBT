@@ -31,10 +31,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-08-27)
+:rocket::rocket::rocket:Update (in 2025-08-29)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+7 | 2025 | VCIF | KBS | VCIF: Visually-compelling infrared and visible image fusion under darkness | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125012687)/[Project](https://github.com/JJGNB/VCIF)
 6 | 2025 | LoME | TCSVT | LoME: LoRA-Driven Multimodal Extractor for RGB-X Vision Tasks | [Paper](https://ieeexplore.ieee.org/abstract/document/11133673)/[Project](https://github.com/zyszxhy/LoME)
 5 | 2025 | AMSFusion | TCSVT | AMSFusion: An Adaptive Multi-Scale Infrared and Visible Image Fusion Network Based on Attention Mechanisms | [Paper](https://ieeexplore.ieee.org/abstract/document/11114909)
 4 | 2025 | IVFSCA | Infrared Physics & Technology | Infrared and visible image fusion based on spatial correlation attention | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449525002786)
