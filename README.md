@@ -24,10 +24,10 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/08/30**: RGB-T CC +1, RGB-T Tracking +1
 - **2025/08/29**: RGB-T Fusion +2, RGB-T Tracking +1
 - **2025/08/27**: RGB-T Fusion +1, RGB-T SOD +1, RGB-T Tracking +1
-- **2025/08/11**: RGB-T Fusion +1, RGB-T ss +4
-- **Since 2025**: RGB-T Fusion +5, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +7, RGB-T Tracking +4, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +6, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +4, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
@@ -239,10 +239,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 4. RGB-T Crowd Counting
-:rocket::rocket::rocket:Update (in 2025-07-21)
+:rocket::rocket::rocket:Update (in 2025-08-30)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+3 | 2025 | RGBT-Booster | JIOT | RGBT-Booster: Detail-Boosted Fusion Network for RGB-Thermal Crowd Counting With Local Contrastive Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/10879501)/[Project](https://github.com/QSBAOYANGMU/RGBT-Booster)
 2 | 2025 | MHKDF | TCSVT | A Mutual Head Knowledge Distillation Framework for Lightweight RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/11080047)/[Project](https://github.com/BaoYangCC/MHKDF)
 1 | 2025 | MISF-Net | TMM | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
 2 | 2022 | MAFNet | arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
