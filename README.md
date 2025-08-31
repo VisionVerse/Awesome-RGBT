@@ -24,10 +24,10 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/08/31**: RGB-T SOD +1
 - **2025/08/30**: RGB-T CC +1, RGB-T Tracking +1
 - **2025/08/29**: RGB-T Fusion +2, RGB-T Tracking +1
-- **2025/08/27**: RGB-T Fusion +1, RGB-T SOD +1, RGB-T Tracking +1
-- **Since 2025**: RGB-T Fusion +6, RGB-T SOD +14, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +4, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +7, RGB-T SOD +15, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +5, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
@@ -74,11 +74,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-08-27)
+:rocket::rocket::rocket:Update (in 2025-08-31)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+6 | 2025 | Samba | CVPR | Samba:AUnifiedMamba-basedFrameworkforGeneralSalientObjectDetection | [Paper](https://jhc.sjtu.edu.cn/~xiaohongliu/papers/2025Samba.pdf)/[Project](https://github.com/Jia-hao999/Samba)
 5 | 2025 | DFINet | TIM | Cognition-Inspired Dynamic Feature Integration Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11131311)
 4 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
 3 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
