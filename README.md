@@ -79,7 +79,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-6 | 2025 | Samba | CVPR | Samba:AUnifiedMamba-basedFrameworkforGeneralSalientObjectDetection | [Paper](https://jhc.sjtu.edu.cn/~xiaohongliu/papers/2025Samba.pdf)/[Project](https://github.com/Jia-hao999/Samba)
+6 | 2025 | Samba | CVPR | Samba: A Unified Mamba-based Framework for General Salient Object Detection | [Paper](https://jhc.sjtu.edu.cn/~xiaohongliu/papers/2025Samba.pdf)/[Project](https://github.com/Jia-hao999/Samba)
 5 | 2025 | DFINet | TIM | Cognition-Inspired Dynamic Feature Integration Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11131311)
 4 | 2025 | AlignSal | TGRS | Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10975009)/[Project](https://github.com/JoshuaLPF/AlignSal)
 3 | 2025 | TwinsTNet | TIP | TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10982382)/[Project](https://github.com/JoshuaLPF/TwinsTNet)
