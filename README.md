@@ -24,17 +24,18 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/08/29**: RGB-T Fusion +1
 - **2025/08/31**: RGB-T SOD +1
 - **2025/08/30**: RGB-T CC +1, RGB-T Tracking +1
-- **2025/08/29**: RGB-T Fusion +2, RGB-T Tracking +1
-- **Since 2025**: RGB-T Fusion +7, RGB-T SOD +15, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +5, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +9, RGB-T SOD +15, RGB-T VD +0, RGB-T CC +3, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +6, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-08-29)
+:rocket::rocket::rocket:Update (in 2025-09-02)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+9 | 2025 | FusionINV | TIP | FusionINV: A Diffusion-Based Approach for Multimodal Image Fusion | [Paper](https://ieeexplore.ieee.org/document/11114795)/[Project](https://github.com/erfect2020/FusionINV)
 8 | 2025 | SDC-DDF | Neurocomputing | Dual-decoder conditional diffusion model based on spatial-domain difference compensation pre-fusion for infrared and visible image fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225020144)
 7 | 2025 | VCIF | KBS | VCIF: Visually-compelling infrared and visible image fusion under darkness | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125012687)/[Project](https://github.com/JJGNB/VCIF)
 6 | 2025 | LoME | TCSVT | LoME: LoRA-Driven Multimodal Extractor for RGB-X Vision Tasks | [Paper](https://ieeexplore.ieee.org/abstract/document/11133673)/[Project](https://github.com/zyszxhy/LoME)
