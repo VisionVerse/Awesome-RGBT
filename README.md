@@ -24,17 +24,18 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/10/5**: RGB-T Fusion +1, RGB-T SOD +1
 - **2025/09/29**: RGB-T SOD +1
 - **2025/08/29**: RGB-T Fusion +1
-- **2025/08/31**: RGB-T SOD +1
-- **Since 2025**: RGB-T Fusion +9, RGB-T SOD +15, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +9, RGB-T SOD +16, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-09-02)
+:rocket::rocket::rocket:Update (in 2025-10-5)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+10 | 2025 | CDTFusion | TPAMI | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194)/[Project](https://github.com/wangwenbo26/CDTFusion)
 9 | 2025 | FusionINV | TIP | FusionINV: A Diffusion-Based Approach for Multimodal Image Fusion | [Paper](https://ieeexplore.ieee.org/document/11114795)/[Project](https://github.com/erfect2020/FusionINV)
 8 | 2025 | SDC-DDF | Neurocomputing | Dual-decoder conditional diffusion model based on spatial-domain difference compensation pre-fusion for infrared and visible image fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225020144)
 7 | 2025 | VCIF | KBS | VCIF: Visually-compelling infrared and visible image fusion under darkness | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125012687)/[Project](https://github.com/JJGNB/VCIF)
@@ -75,11 +76,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-08-31)
+:rocket::rocket::rocket:Update (in 2025-10-5)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+8 | 2025 | HSMNet | EAAI | Hierarchical semantics guided multi-scale correlation network for alignment-free red-green-blue and thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625024029)/[Project](https://github.com/diqi12/HSMNet)
 7 | 2025 | HyPSAM | TCSVT | HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11177578)/[Project](https://github.com/milotic233/HyPSAM)
 6 | 2025 | Samba | CVPR | Samba: A Unified Mamba-based Framework for General Salient Object Detection | [Paper](https://jhc.sjtu.edu.cn/~xiaohongliu/papers/2025Samba.pdf)/[Project](https://github.com/Jia-hao999/Samba)
 5 | 2025 | DFINet | TIM | Cognition-Inspired Dynamic Feature Integration Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11131311)
