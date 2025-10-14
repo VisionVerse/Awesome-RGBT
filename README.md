@@ -24,17 +24,18 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/10/14**: RGB-T Fusion +1
 - **2025/10/5**: RGB-T Fusion +1, RGB-T SOD +1
 - **2025/09/29**: RGB-T SOD +1
-- **2025/08/29**: RGB-T Fusion +1
-- **Since 2025**: RGB-T Fusion +9, RGB-T SOD +16, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +10, RGB-T SOD +16, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-10-5)
+:rocket::rocket::rocket:Update (in 2025-10-14)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+11 | 2025 | UMCFuse | TIP | UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework | [Paper](https://ieeexplore.ieee.org/abstract/document/11164947)/[Project](hhttps://github.com/ixilai/UMCFuse)
 10 | 2025 | CDTFusion | TPAMI | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194)/[Project](https://github.com/wangwenbo26/CDTFusion)
 9 | 2025 | FusionINV | TIP | FusionINV: A Diffusion-Based Approach for Multimodal Image Fusion | [Paper](https://ieeexplore.ieee.org/document/11114795)/[Project](https://github.com/erfect2020/FusionINV)
 8 | 2025 | SDC-DDF | Neurocomputing | Dual-decoder conditional diffusion model based on spatial-domain difference compensation pre-fusion for infrared and visible image fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225020144)
