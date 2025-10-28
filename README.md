@@ -24,10 +24,10 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment](#9-RGB-T-Alignment)
 
 ## :mega: Update
+- **2025/10/28**: RGB-T SS +1
 - **2025/10/14**: RGB-T Fusion +1
 - **2025/10/5**: RGB-T Fusion +1, RGB-T SOD +1
-- **2025/09/29**: RGB-T SOD +1
-- **Since 2025**: RGB-T Fusion +10, RGB-T SOD +16, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +10, RGB-T SOD +17, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
@@ -352,10 +352,11 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-08-11)
+:rocket::rocket::rocket:Update (in 2025-10-28)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+11 | 2025 | AMDANet | ICCV | AMDANet: Attention-Driven Multi-Perspective Discrepancy Alignment for RGB-Infrared Image Fusion and Segmentation | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhong_AMDANet_Attention-Driven_Multi-Perspective_Discrepancy_Alignment_for_RGB-Infrared_Image_Fusion_and_ICCV_2025_paper.html)
 10 | 2025 | EBFNet | JSEN | Evidence-based Fusion for Low-quality RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/11114806)
 9 | 2025 | Cascaded Embedded-Feature Pyramid Networks | Neurocomputing | Cascaded embedded-FPN: A cross-modality multi-scale feature fusion network for varied-sized objects semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225017539)
 8 | 2025 | WSRT | Neurocomputing | A weight-sharing based RGB-T image semantic segmentation network with hierarchical feature enhancement and progressive feature fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225016959)/[Project](https://github.com/bearxwm/WSRT)
