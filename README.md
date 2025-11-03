@@ -35,7 +35,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-12 | 2025 | FreeFusion | TPAMI | FreeFusion: Infrared and Visible Image Fusion via Cross Reconstruction Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/11010882)
+12 | 2025 | FreeFusion | TPAMI | FreeFusion: Infrared and Visible Image Fusion via Cross Reconstruction Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/11010882)/[Project](https://github.com/HengshuaiCui/FreeFusion)
 11 | 2025 | UMCFuse | TIP | UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework | [Paper](https://ieeexplore.ieee.org/abstract/document/11164947)/[Project](https://github.com/ixilai/UMCFuse)
 10 | 2025 | CDTFusion | TPAMI | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194)/[Project](https://github.com/wangwenbo26/CDTFusion)
 9 | 2025 | FusionINV | TIP | FusionINV: A Diffusion-Based Approach for Multimodal Image Fusion | [Paper](https://ieeexplore.ieee.org/document/11114795)/[Project](https://github.com/erfect2020/FusionINV)
