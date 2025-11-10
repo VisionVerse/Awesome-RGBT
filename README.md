@@ -99,7 +99,7 @@ We will continue to update this repository :running::running::running:
  | | | | |
 20 | 2023 | 综述 | 数据采集与处理 | Deep Learning Based Salient Object Detection: A Survey（中文） | [Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/pdf/202301002)
 19 | 2023 | LSNet | TIP | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/document/10042233)/[Project](https://github.com/zyrant/LSNet)
-18 | 2023 | RGBTScribble-ICME2023 | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
+18 | 2023 | RGBTScribble | ICME | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/abs/2303.09733)/[Project](https://github.com/liuzywen/RGBTScribble-ICME2023)
 17 | 2023 | EAEFNet | RAL | Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks | [Paper](https://ieeexplore.ieee.org/document/10113725)/[Project](https://github.com/freeformrobotics/eaefnet)
 16 | 2023 | TAGFNet | EAAI | Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006303)/[Project](https://github.com/VDT-2048/TAGFNet)
 15 | 2023 | FANet | NC | Feature aggregation with transformer for RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223004526)/[Project](https://github.com/ELOESZHANG/FANet)
