@@ -24,17 +24,21 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment/Registration](#9-RGB-T-Alignment/Registration)
 
 ## :mega: Update
+- **2025/12/5**: RGB-T Fusion +4,  RGB-T SOD +2, RGB-T SS +5, RGB-T Tracking +2
 - **2025/11/3**: RGB-T Fusion +1
 - **2025/10/28**: RGB-T SS +1
-- **2025/10/14**: RGB-T Fusion +1
-- **Since 2025**: RGB-T Fusion +11, RGB-T SOD +18, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
+- **Since 2025**: RGB-T Fusion +12, RGB-T SOD +18, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +11, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-11-3)
+:rocket::rocket::rocket:Update (in 2025-12-5)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+16 | 2025 | ME-PMA | Inf. Fusion | Joint multi-view embedding with progressive multi-scale alignment for unaligned infrared-visible image fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S156625352501022X)/[Project](https://github.com/yidamyth/ME-PMA)
+15 | 2025 | MGDIF | Infrared Physics & Technology | An image fusion network using salient object mask-guided diffusion model | [Paper](https://www.sciencedirect.com/science/article/pii/S1350449525005638)
+14 | 2025 | BDDS | Inf. Fusion | Learning Bi-directional fusion and deformation-sensitive loss for RGB-T tiny object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525010474)
+13 | 2025 | SFIFusion | Signal Proc | SFIFusion: Semantic-frequency integration for task-driven infrared and visible image fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0165168425005353)
 12 | 2025 | FreeFusion | TPAMI | FreeFusion: Infrared and Visible Image Fusion via Cross Reconstruction Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/11010882)/[Project](https://github.com/HengshuaiCui/FreeFusion)
 11 | 2025 | UMCFuse | TIP | UMCFuse: A Unified Multiple Complex Scenes Infrared and Visible Image Fusion Framework | [Paper](https://ieeexplore.ieee.org/abstract/document/11164947)/[Project](https://github.com/ixilai/UMCFuse)
 10 | 2025 | CDTFusion | TPAMI | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194)/[Project](https://github.com/wangwenbo26/CDTFusion)
@@ -78,11 +82,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-10-5)
+:rocket::rocket::rocket:Update (in 2025-12-5)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+9 | 2025 | DualGazeNet | arXiv | DualGazeNet: A Biologically Inspired Dual-Gaze Query Network for Salient Object Detection | [Paper](https://arxiv.org/abs/2511.18865)
 8 | 2025 | HSMNet | EAAI | Hierarchical semantics guided multi-scale correlation network for alignment-free red-green-blue and thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625024029)/[Project](https://github.com/diqi12/HSMNet)
 7 | 2025 | HyPSAM | TCSVT | HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11177578)/[Project](https://github.com/milotic233/HyPSAM)
 6 | 2025 | Samba | CVPR | Samba: A Unified Mamba-based Framework for General Salient Object Detection | [Paper](https://jhc.sjtu.edu.cn/~xiaohongliu/papers/2025Samba.pdf)/[Project](https://github.com/Jia-hao999/Samba)
@@ -173,6 +178,7 @@ We will continue to update this repository :running::running::running:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+11 | 2025 | MDANet | JPTIP | Multi-stage differential-aware attention network for real-time underwater salient object detection | [Paper](https://link.springer.com/article/10.1007/s11554-025-01814-8)
 10 | 2025 | LESOD | PR | LESOD: Lightweight and Efficient Network for RGB-D Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007630)/[Project](https://github.com/mingyu6346/LESOD)
 9 | 2025 | PRANet | Neural Networks | Potential region attention network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005003)
 8 | 2025 | HPI | TIP | Heterogeneous Experts and Hierarchical Perception for Underwater Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11018233)
@@ -353,10 +359,15 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-10-28)
+:rocket::rocket::rocket:Update (in 2025-12-5)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+16 | 2025 | DTDC | HISS | Semi-supervised abdominal multi-organ segmentation via dual-task de-biased consistency | [Paper](https://link.springer.com/article/10.1007/s13755-025-00391-1)
+15 | 2025 | VESSA | arXiv | Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation | [Paper](https://arxiv.org/abs/2511.19759)
+14 | 2025 | AMFC | IVC | Semi-supervised medical image segmentation via anatomy-preserving consistency training | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885625004214)
+13 | 2025 | MCLNet | Inf. Fusion | Bridging RGB-T image fusion and semantic segmentation via multi-task collaborative learning | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525010504)
+12 | 2025 | AdaptRGB-t | IJON | AdaptRGB-t: Adaptive RGB-t semantic segmentation via efficient parameter-tuning with textual guidance | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225027328)
 11 | 2025 | AMDANet | ICCV | AMDANet: Attention-Driven Multi-Perspective Discrepancy Alignment for RGB-Infrared Image Fusion and Segmentation | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhong_AMDANet_Attention-Driven_Multi-Perspective_Discrepancy_Alignment_for_RGB-Infrared_Image_Fusion_and_ICCV_2025_paper.html)
 10 | 2025 | EBFNet | JSEN | Evidence-based Fusion for Low-quality RGB-T Semantic Segmentation | [Paper](https://ieeexplore.ieee.org/abstract/document/11114806)
 9 | 2025 | Cascaded Embedded-Feature Pyramid Networks | Neurocomputing | Cascaded embedded-FPN: A cross-modality multi-scale feature fusion network for varied-sized objects semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225017539)
@@ -437,10 +448,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2025-08-29)
+:rocket::rocket::rocket:Update (in 2025-12-5)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+8 | 2025 | MoKA-HP | IJON | MoKA-HP: Motion-aware KAdaptation with historical prompts for efficient and robust RGB-T tracking | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225028358)
+7 | 2025 | QSTNet | TIP | Quality-Aware Spatio-Temporal Transformer Network for RGBT Tracking | [Paper](https://pubmed.ncbi.nlm.nih.gov/41308105/)/[Project](https://zhaodongah.github.io/QSTNet)
 6 | 2025 | TUMFNet | IJCAI | Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking | [Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2815.pdf)/[Project](https://github.com/dongdong2061/IJCAI25-TUMFNet)
 5 | 2025 | FMTrack | TCSVT | FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/11134499)/[Project](https://github.com/xyl-507/FMTrack)
 4 | 2025 | LRPD | ICMR | Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking | [Paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)
