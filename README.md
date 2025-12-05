@@ -21,7 +21,7 @@ We will continue to update this repository :running::running::running:
 6. [RGB-T Semantic Segmeantaion](#6-RGB-T-Semantic-Segmeantaion)
 7. [RGB-T Tracking](#7-RGB-T-Tracking)
 8. [RGB-T ReID](#8-RGB-T-ReID)
-9. [RGB-T Alignment/Registration](#9-RGB-T-Alignment/Registration)
+9. [RGB-T Alignment/Registration](#9-RGB-T-Alignment-Registration)
 
 ## :mega: Update
 - **2025/12/5**: RGB-T Fusion +4,  RGB-T SOD +2, RGB-T SS +5, RGB-T Tracking +2
