@@ -500,7 +500,7 @@ We will continue to update this repository :running::running::running:
 :rocket::rocket::rocket:Update (in 2026-3-8)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
-
+6 | 2025 | HHGF | PR | Homogeneous and heterogeneous relational graph for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324007325)/[Project](https://github.com/FYJ112233/Homogeneous-and-Heterogeneous-Relational-Graph)
 5 | 2025 | HHGF | PR | Homogeneous and heterogeneous relational graph for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324007325)/[Project](https://github.com/FYJ112233/Homogeneous-and-Heterogeneous-Relational-Graph)
 4 | 2025 | CGSFL | PR | Confidence guided semi-supervised cross-modality person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003292)/[Project](https://github.com/Dongly502/SSL-CGSFL)
 3 | 2025 | MASM | Neural Networks | Memory-augmented shuffled meta learning for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006926?via%3Dihub)
