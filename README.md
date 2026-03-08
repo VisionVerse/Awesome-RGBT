@@ -24,10 +24,10 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment/Registration](#9-rgb-t-alignmentregistration)
 
 ## :mega: Update
-- **2026/3/8**: RGB-T ReID +27
+- **2026/3/8**: RGB-T ReID +26
 - **2025/12/5**: RGB-T Fusion +4,  RGB-T SOD +2, RGB-T SS +5, RGB-T Tracking +2
 - **2025/11/3**: RGB-T Fusion +1
-- **Since 2026**: RGB-T Fusion +0, RGB-T SOD +0, RGB-T VD +0, RGB-T CC +0, RGB-T PD +0, RGB-T SS +0, RGB-T Tracking +0, RGB-T ReID +27, RGB-T Alignment +0
+- **Since 2026**: RGB-T Fusion +0, RGB-T SOD +0, RGB-T VD +0, RGB-T CC +0, RGB-T PD +0, RGB-T SS +0, RGB-T Tracking +0, RGB-T ReID +26, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
@@ -506,17 +506,16 @@ We will continue to update this repository :running::running::running:
 2 | 2026 | MACHANet | TIFS | MACHANet: Memory-Augmented Cross Modal Hybrid Alignment Network for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11371381)
 1 | 2026 | MCST | PR | CLIP -powered modality centering with spiral training for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326002980)
  | | | | |
-25 | 2025 | VLD | TIFS | Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11017397)/[Project](https://github.com/Visuang/VLD)
-24 | 2025 | RoDE | TIFS | Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10858072)
-23 | 2025 | PGM | TPAMI | Dual-Level Matching With Outlier Filtering for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10882953)
-22 | 2025 | USL-VI-ReID | TIFS | Progressive Cross-Modal Association Learning for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10833701)/[Project](https://github.com/YimingYang23/PCA_USLVIReID)
-21 | 2025 | STAR-ReID | TIFS | Advancing Visible-Infrared Person Re-Identification: Synergizing Visual-Textual Reasoning and Cross-Modal Feature Alignment | [Paper](https://ieeexplore.ieee.org/abstract/document/10879282)
-20 | 2025 | DA-FI | PR | Bidirectional modality information interaction for Visible–Infrared Person Re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324010525)
-19 | 2025 | CM²GT | PR | Learning multi-granularity representation with transformer for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325001700)
-18 | 2025 | HD-GI | Inf. Fusion | Hierarchical disturbance and Group Inference for video-based visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524006602#sec4)
-17 | 2025 | DSFAD | TIFS | Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11230634)
-16 | 2025 | MHN | Inf. Fusion | Modality-perceptive harmonization network for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525000521)
-15 | 2025 | PMCM | PR | Visible–infrared person re-identification via patch-mixed cross-modality learning | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324006241)
+24 | 2025 | VLD | TIFS | Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11017397)/[Project](https://github.com/Visuang/VLD)
+23 | 2025 | RoDE | TIFS | Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10858072)
+22 | 2025 | PGM | TPAMI | Dual-Level Matching With Outlier Filtering for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10882953)
+21 | 2025 | USL-VI-ReID | TIFS | Progressive Cross-Modal Association Learning for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10833701)/[Project](https://github.com/YimingYang23/PCA_USLVIReID)
+20 | 2025 | STAR-ReID | TIFS | Advancing Visible-Infrared Person Re-Identification: Synergizing Visual-Textual Reasoning and Cross-Modal Feature Alignment | [Paper](https://ieeexplore.ieee.org/abstract/document/10879282)
+19 | 2025 | DA-FI | PR | Bidirectional modality information interaction for Visible–Infrared Person Re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324010525)
+18 | 2025 | CM²GT | PR | Learning multi-granularity representation with transformer for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325001700)
+17 | 2025 | HD-GI | Inf. Fusion | Hierarchical disturbance and Group Inference for video-based visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524006602#sec4)
+16 | 2025 | DSFAD | TIFS | Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11230634)
+15 | 2025 | MHN | Inf. Fusion | Modality-perceptive harmonization network for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525000521)
 14 | 2025 | FDNM | TIFS | Frequency Domain Nuances Mining for Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11008719)
 13 | 2025 | CFSR-Net | PR | Consistency-driven feature scoring and regularization network for visible–infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324008823)
 12 | 2025 | CSANet | TIFS | CSANet: Cross-Modality Self-Paced Association Network for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11124925)
