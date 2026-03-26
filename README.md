@@ -24,18 +24,20 @@ We will continue to update this repository :running::running::running:
 9. [RGB-T Alignment/Registration](#9-rgb-t-alignmentregistration)
 
 ## :mega: Update
+- **2026/3/26**: RGB-T Fusion +1,  RGB-T SOD +1, RGB-T CC +1, RGB-T SS +1, RGB-T Tracking +1, RGB-T ReID +2,
 - **2026/3/8**: RGB-T ReID +26
 - **2025/12/5**: RGB-T Fusion +4,  RGB-T SOD +2, RGB-T SS +5, RGB-T Tracking +2
-- **2025/11/3**: RGB-T Fusion +1
 - **Since 2026**: RGB-T Fusion +0, RGB-T SOD +0, RGB-T VD +0, RGB-T CC +0, RGB-T PD +0, RGB-T SS +0, RGB-T Tracking +0, RGB-T ReID +26, RGB-T Alignment +0
-- **Since 2025**: RGB-T Fusion +12, RGB-T SOD +18, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +12, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
+- **In 2025**: RGB-T Fusion +13, RGB-T SOD +18, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +12, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
 
 
 # 1. RGB-T Fusion
-:rocket::rocket::rocket:Update (in 2025-12-5)
+:rocket::rocket::rocket:Update (in 2026-3-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2026 | FCRNet | TMM | Rethinking the CNN-Transformer Hybrid Architecture for Infrared and Visible Image Fusion from a Frequency Perspective | [Paper](https://ieeexplore.ieee.org/abstract/document/11397182)
+ | | | | |
 16 | 2025 | ME-PMA | Inf. Fusion | Joint multi-view embedding with progressive multi-scale alignment for unaligned infrared-visible image fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S156625352501022X)/[Project](https://github.com/yidamyth/ME-PMA)
 15 | 2025 | MGDIF | Infrared Physics & Technology | An image fusion network using salient object mask-guided diffusion model | [Paper](https://www.sciencedirect.com/science/article/pii/S1350449525005638)
 14 | 2025 | BDDS | Inf. Fusion | Learning Bi-directional fusion and deformation-sensitive loss for RGB-T tiny object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525010474)
@@ -52,13 +54,19 @@ We will continue to update this repository :running::running::running:
 3 | 2025 | HaIVFusion | JAS | HaIVFusion: Haze-free Infrared and Visible Image Fusion | [Paper](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2024.124926)
 2 | 2025 | WSFM | TGRS | Weakly Supervised Cross Mixer for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/abstract/document/11052679)/[Project](https://github.com/wangwenbo26/WSCM)
 1 | 2025 | T²EA | TCSVT | T²EA: Target-Aware Taylor Expansion Approximation Network for Infrared and Visible Image Fusion | [Paper](https://ieeexplore.ieee.org/document/10819442)/[Project](https://github.com/MysterYxby/T2EA)
+ | | | | |
 2 | 2024 | HitFusion | TMM | HitFusion: Infrared and Visible Image Fusion for High-Level Vision Tasks Using Transformer | [Paper](https://ieeexplore.ieee.org/document/10539339)
 1 | 2024 | CLIP | arXiv | From Text to Pixels: A Context-Aware Semantic Synergy Solution for Infrared and Visible Image Fusion | [Paper](https://arxiv.org/pdf/2401.00421.pdf)/[解读-知乎](https://zhuanlan.zhihu.com/p/676176433)
+ | | | | |
 2 | 2023 | RFVIF | Inf. Fusion | Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000519)/[Project](https://github.com/lhf12278/RFVIF)
 1 | 2023 | MURF | TPAMI | :sparkles: MURF：Mutually Reinforcing Multi-Modal Image Registration and Fusion | [Paper](https://ieeexplore.ieee.org/document/10145843)/[Project](https://github.com/hanna-xu/MURF)
+ | | | | |
 1 | 2022 | RFNet | CVPR | :sparkles: RFNet：Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf)/[Project](https://github.com/hanna-xu/MURF)
+ | | | | |
 1 | 2020 | U2Fusion | TPAMI | :sparkles: U2Fusion: A Unified Unsupervised Image Fusion Network  | [Paper](https://ieeexplore.ieee.org/document/9151265)/[Project](https://github.com/hanna-xu/MURF](https://github.com/hanna-xu/U2Fusion))
+ | | | | |
 1 | 2019 | 综述 | Inf. Fusion | Infrared and visible image fusion methods and applications: A survey | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253517307972)
+ | | | | |
 1 | 2016 | GTF | Inf. Fusion | Infrared and visible image fusion via gradient transfer and total variation minimization | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S156625351630001X)/[Project](https://github.com/jiayi-ma/GTF)
 
 
@@ -83,11 +91,13 @@ We will continue to update this repository :running::running::running:
 
 
 # 2. RGB-T Salient Object Detection
-:rocket::rocket::rocket:Update (in 2025-12-5)
+:rocket::rocket::rocket:Update (in 2026-3-26)
 
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2026 | RSONet | TCSVT | RSONet: Region-guided Selective Optimization Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11428245)
+ | | | | |
 9 | 2025 | DualGazeNet | arXiv | DualGazeNet: A Biologically Inspired Dual-Gaze Query Network for Salient Object Detection | [Paper](https://arxiv.org/abs/2511.18865)
 8 | 2025 | HSMNet | EAAI | Hierarchical semantics guided multi-scale correlation network for alignment-free red-green-blue and thermal salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625024029)/[Project](https://github.com/diqi12/HSMNet)
 7 | 2025 | HyPSAM | TCSVT | HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/11177578)/[Project](https://github.com/milotic233/HyPSAM)
@@ -253,16 +263,21 @@ We will continue to update this repository :running::running::running:
 
 
 # 4. RGB-T Crowd Counting
-:rocket::rocket::rocket:Update (in 2025-08-30)
+:rocket::rocket::rocket:Update (in 2026-3-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2026 | CSAFNet | PR | CSAFNet: Cross-modal spatial alignment and fusion network for RGB-T crowd counting | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326002153)/[Project](https://github.com/Zyjer888/CSAFNet)
+ | | | | |
 3 | 2025 | RGBT-Booster | JIOT | RGBT-Booster: Detail-Boosted Fusion Network for RGB-Thermal Crowd Counting With Local Contrastive Learning | [Paper](https://ieeexplore.ieee.org/abstract/document/10879501)/[Project](https://github.com/QSBAOYANGMU/RGBT-Booster)
 2 | 2025 | MHKDF | TCSVT | A Mutual Head Knowledge Distillation Framework for Lightweight RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/11080047)/[Project](https://github.com/BaoYangCC/MHKDF)
 1 | 2025 | MISF-Net | TMM | MISF-Net: Modality-Invariant and -Specific Fusion Network for RGB-T Crowd Counting | [Paper](https://ieeexplore.ieee.org/abstract/document/10855542)/[Project](https://github.com/QSBAOYANGMU/MISF-Net)
+ | | | | |
 2 | 2022 | MAFNet | arXiv | MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting | [Paper](https://arxiv.org/pdf/2208.06761.pdf)
 1 | 2022 | MAT | ICME | Multimodal Crowd Counting with Mutual Attention Transformers | [Paper](https://ieeexplore.ieee.org/abstract/document/9859777)
+ | | | | |
 1 | 2021 | IADM | CVPR | Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting | [Paper](https://arxiv.org/pdf/2012.04529.pdf)/[Project](https://github.com/chen-judge/RGBTCrowdCounting)
+ | | | | |
 1 | 2020 | MMCCN | ACCV | RGB-T Crowd Counting from Drone: A Benchmark and MMCCN Network | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Peng_RGB-T_Crowd_Counting_from_Drone_A_Benchmark_and_MMCCN_Network_ACCV_2020_paper.pdf)/[Project](https://github.com/VisDrone/DroneRGBT)
 
 
@@ -360,10 +375,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 6. RGB-T Semantic Segmeantaion
-:rocket::rocket::rocket:Update (in 2025-12-5)
+:rocket::rocket::rocket:Update (in 2026-3-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2026 | P³D | PR | P³D: Plug-and-play prompt-driven framework for RGB-thermal semantic segmentation | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326003948)
+ | | | | |
 16 | 2025 | DTDC | HISS | Semi-supervised abdominal multi-organ segmentation via dual-task de-biased consistency | [Paper](https://link.springer.com/article/10.1007/s13755-025-00391-1)
 15 | 2025 | VESSA | arXiv | Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation | [Paper](https://arxiv.org/abs/2511.19759)
 14 | 2025 | AMFC | IVC | Semi-supervised medical image segmentation via anatomy-preserving consistency training | [Paper](https://www.sciencedirect.com/science/article/pii/S0262885625004214)
@@ -449,10 +466,12 @@ We will continue to update this repository :running::running::running:
 
 
 # 7. RGB-T Tracking
-:rocket::rocket::rocket:Update (in 2025-12-5)
+:rocket::rocket::rocket:Update (in 2026-3-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+1 | 2026 | PromptTrack | TMM | PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/abstract/document/11397188)
+ | | | | |
 8 | 2025 | MoKA-HP | IJON | MoKA-HP: Motion-aware KAdaptation with historical prompts for efficient and robust RGB-T tracking | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225028358)
 7 | 2025 | QSTNet | TIP | Quality-Aware Spatio-Temporal Transformer Network for RGBT Tracking | [Paper](https://pubmed.ncbi.nlm.nih.gov/41308105/)/[Project](https://zhaodongah.github.io/QSTNet)
 6 | 2025 | TUMFNet | IJCAI | Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking | [Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2815.pdf)/[Project](https://github.com/dongdong2061/IJCAI25-TUMFNet)
@@ -461,24 +480,30 @@ We will continue to update this repository :running::running::running:
 3 | 2025 | MRTTrack | PR | Mining representative tokens via transformer-based multi-modal interaction for RGB-T tracking | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234)/[Project](https://github.com/gao5yy/MRTTrack)
 2 | 2025 | MGNet | Neural Networks | MGNet: RGBT tracking via cross-modality cross-region mutual guidance | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878)/[Project](https://github.com/jingyang-csust/MGNet)
 1 | 2025 | AETrack | TCSVT | Adaptive Expert Decision for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10973112)
+ | | | | |
 2 | 2024 | TGTrack | TCSVT | Top-Down Cross-Modal Guidance for Robust RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10614652)
 1 | 2024 | BAT | AAAI | Bi-directional Adapter for Multimodal Tracking | [Paper](https://doi.org/10.1609/aaai.v38i2.27852)/[Project](https://github.com/SparkTempest/BAT)
+ | | | | |
 6 | 2023 | MPLT | arXiv | RGB-T Tracking via Multi-Modal Mutual Prompt Learning | [Paper](https://arxiv.org/abs/2308.16386)/[Project](https://github.com/HusterYoung/MPLT)
 5 | 2023 | XMSNet | arXiv | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project]()
 4 | 2023 | MTNet | ICME | MTNet: Learning Modality-aware Representation with Transformer for RGBT Tracking | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219799)
 3 | 2023 | ViPT | CVPR |  Visual Prompt Multi-Modal Tracking | [Paper](https://arxiv.org/abs/2303.10826)/[Project](https://github.com/jiawen-zhu/ViPT)
 2 | 2023 | CMD | CVPR | Efficient RGB-T Tracking via Cross-Modality Distillation | [Paper](https://ieeexplore.ieee.org/abstract/document/10205202)
 1 | 2023 | TBSI | CVPR | Bridging Search Region Interaction with Template for RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/10203113)/[Project](https://github.com/RyanHTR/TBSI)
+ | | | | |
 4 | 2022 | RFC | SCIS | RGBT tracking via reliable feature configuration | [Paper](https://link.springer.com/article/10.1007/s11432-020-3160-5)
 3 | 2022 | APFNet | AAAI | Attribute-Based Progressive Fusion Network for RGBT Tracking | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20187/19946)/[Project](https://github.com/yangmengmeng1997/APFNet)
 2 | 2022 | GAP-WRS | ACM MM | Dense Feature Aggregation and Pruning for RGBT Tracking | [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350928)
 1 | 2022 | ProTrack | ACM MM | Prompting for Multi-Modal Tracking | [Paper](https://arxiv.org/abs/2207.14571)
+ | | | | |
 3 | 2021 | JMMAC | TIP | Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking | [Paper](https://ieeexplore.ieee.org/document/9364880)
 2 | 2021 | AENet | IJCV | Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking | [Paper](https://link.springer.com/article/10.1007/s11263-021-01495-3)
 1 | 2021 | FANet | TIV | Quality-Aware Feature Aggregation Network for Robust RGBT Tracking | [Paper](https://ieeexplore.ieee.org/abstract/document/9035457)
+ | | | | |
 3 | 2020 | CANN | ECCV | Challenge-Aware RGBT Tracking | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_14)
 2 | 2020 | 综述 | Information Fusion | Object fusion tracking based on visible and infrared images: A comprehensive review | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)
 1 | 2020 | CMPP | CVPR | Cross-Modal Pattern-Propagation for RGB-T Tracking | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)
+ | | | | |
 1 | 2019 | RGBT234 | PR | RGB-T object tracking: Benchmark and baseline | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320319302808)
 
 
@@ -498,14 +523,16 @@ We will continue to update this repository :running::running::running:
 # 8. RGB-T ReID
 - VIReID: visible-infrared person re-identification
 
-:rocket::rocket::rocket:Update (in 2026-3-8)
+:rocket::rocket::rocket:Update (in 2026-3-26)
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-:  | :-  | :-: 
+7 | 2026 | ATG-CTP | ACM MM | Text-Guided Cross-Modal Alignment with Attribute and Contour Prototypes for Visible-Infrared Person Re-Identification | [Paper](https://dl.acm.org/doi/full/10.1145/3796720#sec-4)
+6 | 2026 | STHF | TCSVT | Spatial-Temporal High-Frequency Learning for Video-based Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11421899)/[Project](https://github.com/TSC95720/STHF)
 5 | 2026 | TSKD | PR | Two-stage knowledge distillation for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325005102)/[Project](https://github.com/shijiangming1/TSKD)
 4 | 2026 | CKT | PR | ‘Knowledge and experience’ for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325012166)
 3 | 2026 | MSPL | TIFS | Learning Corruption-Invariant Components and Cross-Modal Correspondence for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11367017)
 2 | 2026 | MACHANet | TIFS | MACHANet: Memory-Augmented Cross Modal Hybrid Alignment Network for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11371381)
-1 | 2026 | MCST | PR | CLIP -powered modality centering with spiral training for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326002980)
+1 | 2026 | MCST | PR | CLIP-powered modality centering with spiral training for visible-infrared person re-identification | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326002980)
  | | | | |
 24 | 2025 | VLD | TIFS | Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/11017397)/[Project](https://github.com/Visuang/VLD)
 23 | 2025 | RoDE | TIFS | Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification | [Paper](https://ieeexplore.ieee.org/abstract/document/10858072)
