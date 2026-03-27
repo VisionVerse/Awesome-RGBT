@@ -27,7 +27,7 @@ We will continue to update this repository :running::running::running:
 - **2026/3/26**: RGB-T Fusion +1,  RGB-T SOD +1, RGB-T CC +1, RGB-T SS +1, RGB-T Tracking +1, RGB-T ReID +2,
 - **2026/3/8**: RGB-T ReID +26
 - **2025/12/5**: RGB-T Fusion +4,  RGB-T SOD +2, RGB-T SS +5, RGB-T Tracking +2
-- **Since 2026**: RGB-T Fusion +0, RGB-T SOD +0, RGB-T VD +0, RGB-T CC +0, RGB-T PD +0, RGB-T SS +0, RGB-T Tracking +0, RGB-T ReID +26, RGB-T Alignment +0
+- **Since 2026**: RGB-T Fusion +1, RGB-T SOD +1, RGB-T VD +0, RGB-T CC +1, RGB-T PD +0, RGB-T SS +1, RGB-T Tracking +1, RGB-T ReID +28, RGB-T Alignment +0
 - **In 2025**: RGB-T Fusion +13, RGB-T SOD +18, RGB-T VD +0, RGB-T CC +4, RGB-T PD +0, RGB-T SS +12, RGB-T Tracking +7, RGB-T ReID +6, RGB-T Alignment +0
 
 
