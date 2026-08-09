@@ -599,8 +599,6 @@ We will continue to update this repository :running::running::running:
 
 ## Star History
 
-## Star History
-
 <a href="https://www.star-history.com/?repos=VisionVerse%2FAwesome-RGBT&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=VisionVerse/Awesome-RGBT&type=date&theme=dark&legend=top-left&sealed_token=Gnh_XAWhQJO48ymj-ldq7tJU1AA7Sm1e8TSk2d1L5BLAdhQg0Rc_O5qEJYVNQVUYWo8l8K4925Hb5tn6rsd1nrPLUpwNSr6wyr2b0cM_OiPny3fCj4DqDeRyohQOCvxuQ81YDpBfCaAMoXql7A5Jzc3FR8D4gVbSatPcVH3J6IWYrHpLHYFH86e7BqWz" />
