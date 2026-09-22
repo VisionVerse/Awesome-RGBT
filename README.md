@@ -1,6 +1,6 @@
 # Awesome RGB-T Application [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)
 
-![avatar](/thermal.png)
+![avatar](/thermal-cat2.png)
 A collection of papers, codes, and datasets for RGB-T related tasks based on deep learning.
 
 The main directions involved are RGB-T Fusion, RGB-T Salient Object Detection (SOD), RGB-T Vehicle Detection (VD), RGB-T Crowd Counting (CC), RGB-T Pedestrian Detection (PD), RGB-T Semantic Segmeantaion (SS), RGB-T Tracking.
